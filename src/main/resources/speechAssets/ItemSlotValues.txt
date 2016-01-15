@@ -1,0 +1,4000 @@
+Tritanium
+Pyerite
+Mexallon
+Isogen
+Nocxium
+Zydrine
+Megacyte
+Enriched Uranium
+Carbonized Lead Small
+Nuclear Small
+Proton Small
+Depleted Uranium Small
+Titanium Sabot Small
+Fusion Small
+Phased Plasma Small
+EMP Small
+Carbonized Lead Medium
+Nuclear Medium
+Proton Medium
+Depleted Uranium Medium
+Titanium Sabot Medium
+Fusion Medium
+Phased Plasma Medium
+EMP Medium
+Carbonized Lead Large
+Nuclear Large
+Proton Large
+Depleted Uranium Large
+Titanium Sabot Large
+Fusion Large
+Phased Plasma Large
+EMP Large
+Mjolnir Cruise Missile
+Scourge Cruise Missile
+Inferno Cruise Missile
+Nova Cruise Missile
+Nova Heavy Missile
+Mjolnir Heavy Missile
+Inferno Heavy Missile
+Scourge Heavy Missile
+Scourge Light Missile
+Inferno Light Missile
+Mjolnir Light Missile
+Nova Light Missile
+Iron Charge Small
+Tungsten Charge Small
+Iridium Charge Small
+Lead Charge Small
+Thorium Charge Small
+Uranium Charge Small
+Plutonium Charge Small
+Antimatter Charge Small
+Iron Charge Medium
+Tungsten Charge Medium
+Iridium Charge Medium
+Lead Charge Medium
+Thorium Charge Medium
+Uranium Charge Medium
+Plutonium Charge Medium
+Antimatter Charge Medium
+Iron Charge Large
+Tungsten Charge Large
+Iridium Charge Large
+Lead Charge Large
+Thorium Charge Large
+Uranium Charge Large
+Plutonium Charge Large
+Antimatter Charge Large
+Radio Small
+Microwave Small
+Infrared Small
+Standard Small
+Ultraviolet Small
+Xray Small
+Gamma Small
+Multifrequency Small
+Radio Medium
+Microwave Medium
+Infrared Medium
+Standard Medium
+Ultraviolet Medium
+Xray Medium
+Gamma Medium
+Multifrequency Medium
+Radio Large
+Microwave Large
+Infrared Large
+Standard Large
+Ultraviolet Large
+Xray Large
+Gamma Large
+Multifrequency Large
+Cap Booster 25
+Cap Booster 50
+Heavy Defender Missile 1
+Scourge Rocket
+Scourge Torpedo
+Mjolnir Auto Targeting Light Missile 1
+Small Shield Extender 1
+Small Shield Extender 2
+Shield Recharger 1
+Shield Recharger 2
+Small Shield Booster 1
+Small Shield Booster 2
+Micro Remote Shield Booster 1
+Micro Remote Shield Booster 2
+Basic Capacitor Recharger
+1 Mega Newton Microwarpdrive 1
+1 Mega Newton Afterburner 2
+1 Mega Newton Afterburner 1
+1 Mega Newton Microwarpdrive 2
+Cargo Scanner 1
+Ship Scanner 1
+Survey Scanner 1
+Warp Scrambler 1
+Warp Scrambler 2
+Miner 2
+Miner 1
+Light Missile Launcher 1
+Heavy Missile Launcher 1
+Torpedo Launcher 1
+Basic Capacitor Power Relay
+Basic Shield Flux Coil
+Basic Capacitor Flux Coil
+Basic Gyrostabilizer
+Gyrostabilizer 2
+Gyrostabilizer 1
+Basic Damage Control
+Micro Capacitor Battery 1
+Small Armor Repairer 1
+Small Hull Repairer 1
+Stasis Webifier 1
+Stasis Webifier 2
+Small Remote Capacitor Transmitter 1
+Small Nosferatu 1
+Small Energy Neutralizer 1
+Medium Capacitor Booster 1
+Adaptive Invulnerability Field 1
+ECM Burst 1
+Passive Targeter 1
+Bantam
+Condor
+Griffin
+Slasher
+Probe
+Rifter
+Reaper
+Executioner
+Inquisitor
+Tormentor
+Navitas
+Tristan
+Incursus
+Impairor
+Punisher
+Breacher
+Burst
+Ibis
+Kestrel
+Merlin
+Heron
+Velator
+Imicus
+Atron
+Maulus
+Immolator
+Echo
+Osprey
+Caracal
+Stabber
+Moa
+Maller
+Augoror
+Vexor
+Thorax
+Arbitrator
+Rupture
+Bellicose
+Scythe
+Blackbird
+Celestis
+Exequror
+Raven
+Tempest
+Scorpion
+Megathron
+Apocalypse
+Armageddon
+Typhoon
+Dominix
+Badger
+Tayra
+Nereus
+Hoarder
+Mammoth
+Wreathe
+Kryos
+Epithal
+Miasmos
+Iteron Mark V
+Erebus
+Caldari Shuttle
+Auto Targeting System 1
+Small Armor Repairer 2
+Small Capacitor Battery 1
+Small Remote Capacitor Transmitter 2
+Basic Overdrive Injector System
+Basic EM Plating
+Cap Recharger 1
+EM Plating 1
+EM Plating 2
+Wasp 1
+Civilian Mining Drone
+Overdrive Injector System 2
+Basic Reinforced Bulkheads
+Basic Nanofiber Internal Structure
+Overdrive Injector System 1
+Capacitor Flux Coil 1
+Capacitor Flux Coil 2
+Shield Flux Coil 1
+Shield Flux Coil 2
+Basic Explosive Plating
+Explosive Plating 1
+Explosive Plating 2
+Basic Layered Plating
+Layered Plating 1
+Layered Plating 2
+Basic Kinetic Plating
+Kinetic Plating 1
+Kinetic Plating 2
+Basic Thermic Plating
+Thermic Plating 1
+Thermic Plating 2
+Basic Adaptive Nano Plating
+Adaptive Nano Plating 1
+Adaptive Nano Plating 2
+Basic Expanded Cargohold
+Expanded Cargohold 1
+Expanded Cargohold 2
+Reinforced Bulkheads 1
+Reinforced Bulkheads 2
+Basic Reactor Control Unit
+Reactor Control Unit 1
+Reactor Control Unit 2
+Basic Inertial Stabilizers
+Inertial Stabilizers 1
+Inertial Stabilizers 2
+Basic Shield Power Relay
+Shield Power Relay 2
+Auto Targeting System 2
+Capacitor Power Relay 1
+Capacitor Power Relay 2
+Basic Power Diagnostic System
+Power Diagnostic System 1
+Power Diagnostic System 2
+Small Proton Smartbomb 1
+Small Proton Smartbomb 2
+Small Graviton Smartbomb 1
+Small Graviton Smartbomb 2
+Small Plasma Smartbomb 1
+Small Plasma Smartbomb 2
+Small EMP Smartbomb 1
+Small EMP Smartbomb 2
+Basic EM Ward Amplifier
+Basic Thermic Dissipation Amplifier
+Basic Kinetic Deflection Amplifier
+Basic Explosive Deflection Amplifier
+EM Ward Amplifier 1
+Scourge Auto Targeting Light Missile 1
+Nova Auto Targeting Light Missile 1
+Inferno Auto Targeting Light Missile 1
+Scourge Auto Targeting Heavy Missile 1
+Mjolnir Auto Targeting Heavy Missile 1
+Nova Auto Targeting Heavy Missile 1
+Inferno Auto Targeting Heavy Missile 1
+Scourge Auto Targeting Cruise Missile 1
+Mjolnir Auto Targeting Cruise Missile 1
+Nova Auto Targeting Cruise Missile 1
+Inferno Auto Targeting Cruise Missile 1
+Ship Scanner 2
+Rapid Light Missile Launcher 1
+Rapid Light Missile Launcher 2
+Basic Heat Sink
+Bestower
+Basic RADAR Backup Array
+ECCM Radar 1
+ECM Ion Field Projector 1
+Basic Signal Amplifier
+Basic Tracking Enhancer
+Sensor Booster 2
+ECM Spatial Destabilizer 1
+ECM White Noise Generator 1
+ECM Multispectral Jammer 1
+ECM Phase Inverter 1
+ECCM Projector 1
+ECCM Projector 2
+Remote Sensor Booster 1
+Remote Sensor Booster 2
+Remote Sensor Dampener 1
+Remote Sensor Dampener 2
+Sensor Booster 1
+Tracking Computer 1
+Tracking Computer 2
+Basic Ladar Backup Array
+Basic Gravimetric Backup Array
+Basic Magnetometric Backup Array
+Basic Multi Sensor Backup Array
+Signal Amplifier 1
+Signal Amplifier 2
+Tracking Enhancer 1
+Tracking Enhancer 2
+Cynosural Suppression
+ECCM Ladar 1
+ECCM Magnetometric 1
+ECCM Gravimetric 1
+ECCM Omni 1
+Omen
+Cynosural Navigation
+Supercapital Construction Facilities
+Medium Capacitor Battery 1
+Large Capacitor Battery 1
+Medium Capacitor Booster 2
+Pirate Detection Array 1
+Pirate Detection Array 2
+Pirate Detection Array 3
+Pirate Detection Array 4
+Pirate Detection Array 5
+Entrapment Array 1
+Cap Recharger 2
+Entrapment Array 2
+Entrapment Array 3
+Entrapment Array 4
+Entrapment Array 5
+Cargo Scanner 2
+Ore Prospecting Array 1
+Ore Prospecting Array 2
+Ore Prospecting Array 3
+Ore Prospecting Array 4
+Ore Prospecting Array 5
+Damage Control 1
+Damage Control 2
+Gistum C Type Adaptive Invulnerability Field
+Survey Networks 1
+Survey Networks 2
+Survey Networks 3
+Survey Networks 4
+Survey Networks 5
+Quantum Flux Generator 1
+Quantum Flux Generator 2
+Quantum Flux Generator 3
+Quantum Flux Generator 4
+Quantum Flux Generator 5
+Microorganisms
+Zephyr
+Genolution Core Augmentation CA 1
+Remote Tracking Computer 1
+Remote Tracking Computer 2
+Tracking Disruptor 1
+Tracking Disruptor 2
+ECM Burst 2
+Crucifier
+Infiltrator 1
+Infiltrator 2
+Guristas Nova Citadel Cruise Missile
+Guristas Scourge Citadel Cruise Missile
+Guristas Inferno Citadel Cruise Missile
+Hammerhead 1
+Hammerhead 2
+Guristas Mjolnir Citadel Cruise Missile
+Praetor 1
+Praetor 2
+Acolyte 1
+Acolyte 2
+Temperate Command Center
+ECCM Omni 2
+ECCM Gravimetric 2
+ECCM Ladar 2
+ECCM Magnetometric 2
+ECCM Radar 2
+Base Metals
+Aqueous Liquids
+Noble Metals
+Heavy Metals
+Adaptive Invulnerability Field 2
+Planktic Colonies
+Complex Organisms
+Carbon Compounds
+Explosive Deflection Field 1
+Kinetic Deflection Field 1
+EM Ward Field 1
+Thermic Dissipation Field 1
+Explosive Deflection Field 2
+Kinetic Deflection Field 2
+EM Ward Field 2
+Thermic Dissipation Field 2
+Autotrophs
+Non CS Crystals
+Felsic Magma
+Suspended Plasma
+Ionic Solutions
+Noble Gas
+Reactive Gas
+Supertensile Plastics
+Oxides
+Test Cultures
+Polyaramids
+Microfiber Shielding
+Water Cooled CPU
+Biocells
+Shield Power Relay 1
+Survey Scanner 2
+Passive Targeter 2
+Condensates
+Camera Drones
+Synthetic Synapses
+Gel Matrix Biopaste
+Supercomputers
+Smartfab Units
+Nuclear Reactors
+Neocoms
+Small Hull Repairer 2
+Biotech Research Reports
+Industrial Explosives
+Hermetic Membranes
+Heat Sink 1
+Heat Sink 2
+Hazmat Detection Systems
+Cryoprotectant Solution
+Plasmoids
+Electrolytes
+Oxidizing Compound
+Bacteria
+Proteins
+Biofuels
+Industrial Fibers
+Reactive Metals
+Precious Metals
+Toxic Metals
+Chiral Structures
+Advanced Planetology
+Light Missile Launcher 2
+Planetology
+Heavy Missile Launcher 2
+Torpedo Launcher 2
+Wasp 2
+Ogre 1
+Ogre 2
+Hobgoblin 1
+Hobgoblin 2
+Nanites
+Hornet 1
+Hornet 2
+Berserker 1
+Berserker 2
+Warrior 1
+Warrior 2
+Interplanetary Consolidation
+Command Center Upgrades
+Mjolnir Torpedo
+Nova Torpedo
+Inferno Torpedo
+Mjolnir Rocket
+Inferno Rocket
+Nova Rocket
+Barren Command Center
+Oceanic Command Center
+Explosive Deflection Amplifier 1
+Explosive Deflection Amplifier 2
+Ice Command Center
+Gas Command Center
+Thermic Dissipation Amplifier 1
+Thermic Dissipation Amplifier 2
+Kinetic Deflection Amplifier 1
+Kinetic Deflection Amplifier 2
+Lava Command Center
+Storm Command Center
+Plasma Command Center
+EM Ward Amplifier 2
+ECM Phase Inverter 2
+ECM Ion Field Projector 2
+ECM Multispectral Jammer 2
+ECM Spatial Destabilizer 2
+ECM White Noise Generator 2
+Gravimetric Backup Array 1
+Gravimetric Backup Array 2
+Ladar Backup Array 1
+Ladar Backup Array 2
+Magnetometric Backup Array 1
+Magnetometric Backup Array 2
+Genolution Core Augmentation CA 2
+Multi Sensor Backup Array 1
+Multi Sensor Backup Array 2
+Nanofiber Internal Structure 1
+Nanofiber Internal Structure 2
+Mjolnir Fury Light Missile
+Inferno Fury Cruise Missile
+Scourge Fury Heavy Missile
+Inferno Precision Cruise Missile
+Inferno Precision Light Missile
+Nova Precision Heavy Missile
+Scourge Rage Heavy Assault Missile
+Nova Javelin Torpedo
+Inferno Rage Torpedo
+Mjolnir Rage Rocket
+Utu
+Adrestia
+Primae
+Broadcast Node
+Integrity Response Drones
+Nano Factory
+Organic Mortar Applicators
+Recursive Computing Module
+Self Harmonizing Power Core
+Sterile Conduits
+Wetware Mainframe
+Shadow
+Noctis
+ORE Industrial
+Harvester Mining Drone
+Warp Disruptor 1
+Warp Disruptor 2
+Medium Standard Container
+Large Standard Container
+Small Standard Container
+Gunnery
+Small Hybrid Turret
+Small Projectile Turret
+Small Energy Turret
+Medium Hybrid Turret
+Medium Projectile Turret
+Medium Energy Turret
+Large Hybrid Turret
+Large Projectile Turret
+Large Energy Turret
+Rapid Firing
+Sharpshooter
+Motion Prediction
+Surgical Strike
+Controlled Bursts
+Trajectory Analysis
+Weapon Upgrades
+Missile Launcher Operation
+Rockets
+Light Missiles
+Auto Targeting Missiles
+Defender Missiles
+Heavy Missiles
+Torpedoes
+Cruise Missiles
+Spaceship Command
+Gallente Frigate
+Minmatar Frigate
+Caldari Frigate
+Amarr Frigate
+Gallente Cruiser
+Minmatar Cruiser
+Caldari Cruiser
+Amarr Cruiser
+Gallente Battleship
+Minmatar Battleship
+Caldari Battleship
+Amarr Battleship
+Gallente Industrial
+Minmatar Industrial
+Caldari Industrial
+Amarr Industrial
+Gallente Titan
+Minmatar Titan
+Caldari Titan
+Amarr Titan
+Leadership
+Skirmish Warfare
+Siege Warfare
+Siege Warfare Specialist
+Information Warfare Specialist
+Warfare Link Specialist
+Social
+Negotiation
+Diplomacy
+Fast Talk
+Connections
+Criminal Connections
+Corporation Management
+Diplomatic Relations
+Starbase Defense Management
+Industry
+Reprocessing
+Mining
+Mass Production
+Advanced Industry
+Reprocessing Efficiency
+Mechanics
+Repair Systems
+Hull Upgrades
+Advanced Small Ship Construction
+Advanced Industrial Ship Construction
+Advanced Medium Ship Construction
+Advanced Large Ship Construction
+Outpost Construction
+Science
+Research
+Biology
+Laboratory Operation
+Sleeper Encryption Methods
+Metallurgy
+Astrogeology
+Cybernetics
+Astrometrics
+Power Grid Management
+Shield Operation
+Capacitor Systems Operation
+Capacitor Management
+Shield Management
+Tactical Shield Manipulation
+Energy Pulse Weapons
+Shield Emission Systems
+Capacitor Emission Systems
+Energy Grid Upgrades
+Shield Upgrades
+CPU Management
+Electronic Warfare
+Long Range Targeting
+Target Management
+Advanced Target Management
+Signature Analysis
+Electronics Upgrades
+Sensor Linking
+Weapon Disruption
+Propulsion Jamming
+Drones
+Drone Avionics
+Mining Drone Operation
+Repair Drone Operation
+Salvage Drone Operation
+Heavy Drone Operation
+Drone Interfacing
+Trade
+Retail
+Broker Relations
+Visibility
+Navigation
+Afterburner
+Fuel Conservation
+Acceleration Control
+Evasive Maneuvering
+High Speed Maneuvering
+Warp Drive Operation
+Jump Drive Operation
+Large Secure Container
+Medium Secure Container
+Small Secure Container
+Basic Co Processor
+Micro Capacitor Battery 2
+Small Capacitor Battery 2
+Medium Capacitor Battery 2
+Large Capacitor Battery 2
+Revenant
+Malice
+Vangel
+Medium Armor Repairer 1
+Medium Armor Repairer 2
+Echelon
+Capital Inefficient Armor Repair Unit
+Capital Coaxial Remote Armor Repairer
+Large Armor Repairer 1
+Large Armor Repairer 2
+Capital Neutron Saturation Injector 1
+Capital Murky Remote Shield Booster
+Survey
+Cap Booster 75
+Cap Booster 100
+Micro Capacitor Booster 1
+Micro Capacitor Booster 2
+Limos Citadel Cruise Launcher 1
+Shock Limos Citadel Torpedo Bay 1
+Small Capacitor Booster 1
+Small Capacitor Booster 2
+Capital Murky Remote Capacitor Transmitter
+Heavy Capacitor Booster 1
+Heavy Capacitor Booster 2
+Purloined Sansha Data Analyzer
+Small Remote Shield Booster 1
+Small Remote Shield Booster 2
+Medium Remote Shield Booster 1
+Medium Remote Shield Booster 2
+Large Remote Shield Booster 1
+Large Remote Shield Booster 2
+Capital Remote Shield Booster 1
+Water
+Civilian Miner
+Medium Hull Repairer 1
+Medium Hull Repairer 2
+Large Hull Repairer 1
+Large Hull Repairer 2
+Oxygen
+Mechanical Parts
+Synthetic Oil
+Fertilizer
+Polytextiles
+Silicate Glass
+Livestock
+Megacorp Management
+Empire Control
+Gnosis
+Leviathan
+Vigil
+Viral Agent
+Biomass
+Construction Blocks
+Medium Shield Extender 1
+Medium Shield Extender 2
+Large Shield Extender 1
+Large Shield Extender 2
+Micro Shield Extender 1
+Micro Shield Extender 2
+Co Processor 1
+Co Processor 2
+Mining Connections
+Distribution Connections
+Security Connections
+Micro Proton Smartbomb 1
+Quafe Zero
+Micro Proton Smartbomb 2
+Micro Graviton Smartbomb 1
+Micro Graviton Smartbomb 2
+Micro Plasma Smartbomb 1
+Micro Plasma Smartbomb 2
+Micro EMP Smartbomb 1
+Micro EMP Smartbomb 2
+Medium Proton Smartbomb 1
+Medium Proton Smartbomb 2
+Medium Graviton Smartbomb 1
+Medium Graviton Smartbomb 2
+Medium Plasma Smartbomb 1
+Medium Plasma Smartbomb 2
+Medium EMP Smartbomb 1
+Medium EMP Smartbomb 2
+Customs Office Gantry
+Large Proton Smartbomb 1
+Large Proton Smartbomb 2
+Large Graviton Smartbomb 1
+Large Graviton Smartbomb 2
+Large Remote Hull Repairer 2
+Large Plasma Smartbomb 1
+Large Plasma Smartbomb 2
+Large EMP Smartbomb 1
+Large EMP Smartbomb 2
+Scorpion Ishukone Watch
+RADAR Backup Array 1
+RADAR Backup Array 2
+X5 Prototype Engine Enervator
+Fleeting Propulsion Inhibitor 1
+Langour Drive Disruptor 1
+Patterned Stasis Web 1
+Caldari Fuel Block
+Minmatar Fuel Block
+Amarr Fuel Block
+Warp Disruption Field Generator 2
+Small Tractor Beam 2
+Capital Tractor Beam 2
+Micro Auxiliary Power Core 2
+Bomb Launcher 2
+Core Probe Launcher 2
+Expanded Probe Launcher 2
+Armored Warfare Link Damage Control 2
+Armored Warfare Link Passive Defense 2
+Armored Warfare Link Rapid Repair 2
+Information Warfare Link Electronic Superiority 2
+Information Warfare Link Recon Operation 2
+Information Warfare Link Sensor Integrity 2
+Mining Foreman Link Harvester Capacitor Efficiency 2
+Mining Foreman Link Laser Optimization 2
+Mining Foreman Link Mining Laser Field Enhancement 2
+Siege Warfare Link Active Shielding 2
+Siege Warfare Link Shield Efficiency 2
+Siege Warfare Link Shield Harmonizing 2
+Skirmish Warfare Link Evasive Maneuvers 2
+Skirmish Warfare Link Interdiction Maneuvers 2
+Skirmish Warfare Link Rapid Deployment 2
+Siege Module 2
+Triage Module 2
+Medium Remote Hull Repairer 2
+Small Remote Hull Repairer 2
+Oracle
+Naga
+Talos
+Tornado
+Gallente Fuel Block
+Gistum B Type Adaptive Invulnerability Field
+Gistum A Type Adaptive Invulnerability Field
+Pithum A Type Adaptive Invulnerability Field
+Pithum B Type Adaptive Invulnerability Field
+Pithum C Type Adaptive Invulnerability Field
+Miasmos Quafe Ultra Edition
+Large Micro Jump Drive
+Micro Jump Drive Operation
+Mobile Large Jump Disruptor 1
+Miasmos Quafe Ultramarine Edition
+Large Ancillary Shield Booster
+Drone Damage Amplifier 1
+Medium Processor Overclocking Unit 1
+Large Processor Overclocking Unit 1
+Medium Processor Overclocking Unit 2
+Large Processor Overclocking Unit 2
+Reactive Armor Hardener
+Drone Damage Amplifier 2
+Target Spectrum Breaker
+Target Breaker Amplification
+Eutectic Compact Cap Recharger
+5 Watt Infectious Power System Malfunction
+Small Rudimentary Energy Destabilizer 1
+Small Unstable Power Fluctuator 1
+Small Gremlin Power Core Disruptor 1
+Small 1 a Polarized Armor Regenerator
+Small Inefficient Armor Repair Unit
+Small Accommodation Vestment Reconstructer 1
+Small Automated Carapace Restoration
+Medium Ia Polarized Armor Regenerator
+Medium Inefficient Armor Repair Unit
+Medium Accommodation Vestment Reconstructer 1
+Medium Automated Carapace Restoration
+Large Ia Polarized Armor Regenerator
+Large Inefficient Armor Repair Unit
+Large Accommodation Vestment Reconstructer 1
+Large Automated Carapace Restoration
+Micro F4a Lead Sulfate Capacitor Charge Unit
+Micro Lead Acid Capacitor Battery 1
+Micro Peroxide Capacitor Power Cell
+Micro Ohm Capacitor Reserve 1
+Small F4a Lead Sulfate Capacitor Charge Unit
+Small Lead Acid Capacitor Battery 1
+Small Peroxide Capacitor Power Cell
+Small Ohm Capacitor Reserve 1
+Medium FRX Prototype Capacitor Boost
+Medium Brief Capacitor Overcharge 1
+Medium Electrochemical Capacitor Booster 1
+Medium Tapered Capacitor Infusion 1
+Large F4a Lead Sulfate Capacitor Charge Unit
+Large Lead Acid Capacitor Battery 1
+Large Peroxide Capacitor Power Cell
+Large Ohm Capacitor Reserve 1
+Micro FRX Prototype Capacitor Boost
+Micro Brief Capacitor Overcharge 1
+Micro Electrochemical Capacitor Booster 1
+Micro Tapered Capacitor Infusion 1
+Small FRX Prototype Capacitor Boost
+Small Brief Capacitor Overcharge 1
+Small Electrochemical Capacitor Booster 1
+Small Tapered Capacitor Infusion 1
+Heavy FRX Prototype Capacitor Boost
+Heavy Brief Capacitor Overcharge 1
+Heavy Electrochemical Capacitor Booster 1
+Heavy Tapered Capacitor Infusion 1
+Small Partial E95a Remote Capacitor Transmitter
+Small Murky Remote Capacitor Transmitter
+Small Regard Remote Capacitor Transmitter
+Small Asymmetric Remote Capacitor Transmitter
+E5 Prototype Energy Vampire
+Small Knave Energy Drain
+Small Diminishing Power System Drain 1
+Small Ghoul Energy Siphon 1
+Single Diode Basic Mining Laser
+EPS Gaussian Scoped Mining Laser
+Particle Bore Compact Mining Laser
+F23 Reciprocal Remote Sensor Booster
+Connected Remote Sensor Booster
+Coadjunct Linked Remote Sensor Booster
+Linked Remote Sensor Booster
+Low Frequency Sensor Suppressor 1
+Indirect Scanning Dampening Unit 1
+Kapteyn Sensor Array Inhibitor 1
+Phased Muon Sensor Disruptor 1
+F392 Baker Nunn Tracking Disruptor 1
+Balmer Series Tracking Disruptor 1
+Abandon Tracking Disruptor 1
+DDO Photometry Tracking Disruptor 1
+F293 Nutation Remote Tracking Computer
+Phase Switching Remote Tracking Computer
+Prayer Remote Tracking Computer
+Alfven Surface Remote Tracking Computer
+1Z3 Subversive ECM Eruption
+Deluge ECM Burst 1
+Rash ECM Emission 1
+Cetus ECM Shockwave 1
+J5 Prototype Warp Disruptor 1
+Fleeting Warp Disruptor 1
+Faint Warp Disruptor 1
+Initiated Warp Disruptor 1
+J5b Phased Prototype Warp Scrambler 1
+Fleeting Progressive Warp Scrambler 1
+Faint Epsilon Warp Scrambler 1
+Initiated Harmonic Warp Scrambler 1
+Type D Restrained Expanded Cargo
+Type D Restrained Inertial Stabilizers
+Type D Restrained Nanofiber Structure
+Type D Restrained Overdrive Injector
+Type D Restrained Reinforced Bulkheads
+Mark 1 Compact Reinforced Bulkheads
+Medium Inefficient Hull Repair Unit
+Small Inefficient Hull Repair Unit
+Large Inefficient Hull Repair Unit
+Medium Hope Hull Reconstructor 1
+Medium Automated Structural Restoration
+Medium 1 b Polarized Structural Regenerator
+Small Hope Hull Reconstructor 1
+Small Automated Structural Restoration
+Small 1 b Polarized Structural Regenerator
+Large Hope Hull Reconstructor 1
+Large Automated Structural Restoration
+Large 1 b Polarized Structural Regenerator
+GLFF Containment Field
+Interior Force Field Array
+Systematic Damage Control
+F84 Local Damage System
+Pseudoelectron Containment Field 1
+Internal Force Field Array 1
+Emergency Damage Control 1
+F85 Peripheral Damage System 1
+Heat Exhaust System
+Thermal Exhaust System 1
+Extruded Heat Sink 1
+Stamped Heat Sink
+Boreas Coolant System
+C3S Convection Thermal Radiator
+Skadi Coolant System 1
+C4S Coiled Circuit Thermal Radiator
+Indirect Target Acquisition 1
+Passive Targeting Array 1
+Suppressed Targeting System 1
+41F Veiled Targeting Unit
+Hydraulic Stabilization Actuator
+Lateral Gyrostabilizer
+Stabilized Weapon Mounts
+FM2 Weapon Inertial Suspensor
+Pneumatic Stabilization Actuator 1
+Cross Lateral Gyrostabilizer 1
+Counterbalanced Weapon Mounts 1
+FM3 Munition Inertial Suspensor
+Prototype 100 Mega Newton Microwarpdrive 1
+Experimental 100 Mega Newton Afterburner 1
+Upgraded 1 Mega Newton Microwarpdrive 1
+Limited 1 Mega Newton Microwarpdrive 1
+Experimental 10 Mega Newton Microwarpdrive 1
+Limited 1 Mega Newton Afterburner 1
+Experimental 1 Mega Newton Afterburner 1
+Experimental 10 Mega Newton Afterburner 1
+Hostile Target Acquisition 1
+Recusant Hostile Targeting Array 1
+Responsive Auto Targeting System 1
+Automated Targeting Unit 1
+Medium Lead Acid Capacitor Battery 1
+Medium Peroxide Capacitor Power Cell
+Medium Ohm Capacitor Reserve 1
+Medium F4a Lead Sulfate Capacitor Charge Unit
+Enduring Cargo Scanner
+Scoped Cargo Scanner
+Supplemental Scanning CPU 1
+Prototype Sensor Booster
+Alumel Wired Sensor Augmentation
+F90 Positional Sensor Subroutines
+Optical Tracking Computer 1
+Monopulse Tracking Mechanism 1
+Orion Tracking CPU 1
+F12 Nonlinear Tracking Processor
+Emergency Magnetometric Scanners
+Emergency Multi Frequency Scanners
+Reserve Gravimetric Scanners
+Reserve Ladar Scanners
+Emergency RADAR Scanners
+Reserve Magnetometric Scanners
+Reserve Multi Frequency Scanners
+Reserve RADAR Scanners
+Emergency Ladar Scanners
+Emergency Gravimetric Scanners
+Protected Gravimetric Backup Cluster 1
+Protected Ladar Backup Cluster 1
+Sealed RADAR Backup Cluster
+Protected Magnetometric Backup Cluster 1
+Protected Multi Frequency Backup Cluster 1
+Protected RADAR Backup Cluster 1
+Sealed Magnetometric Backup Cluster
+Sealed Multi Frequency Backup Cluster
+Sealed Ladar Backup Cluster
+Sealed Gravimetric Backup Cluster
+Surrogate Gravimetric Reserve Array 1
+F43 Repetitive Gravimetric Backup Sensors
+Surrogate Ladar Reserve Array 1
+F43 Repetitive Ladar Backup Sensors
+Surplus RADAR Reserve Array
+F42 Reiterative RADAR Backup Sensors
+Surrogate Magnetometric Reserve Array 1
+F43 Repetitive Magnetometric Backup Sensors
+Surrogate Multi Frequency Reserve Array 1
+F43 Repetitive Multi Frequency Backup Sensors
+Surrogate RADAR Reserve Array 1
+F43 Repetitive RADAR Backup Sensors
+Surplus Magnetometric Reserve Array
+F42 Reiterative Magnetometric Backup Sensors
+Surplus Multi Frequency Reserve Array
+F42 Reiterative Multi Frequency Backup Sensors
+Surplus Ladar Reserve Array
+F42 Reiterative Ladar Backup Sensors
+Surplus Gravimetric Reserve Array
+F42 Reiterative Gravimetric Backup Sensors
+Wavelength Signal Enhancer 1
+Mendicant Signal Booster 1
+Type D Attenuation Signal Augmentation
+F89 Synchronized Signal Amplifier
+Amplitude Signal Enhancer
+Acolyth Signal Booster
+Type E Discriminative Signal Augmentation
+F90 Positional Signal Amplifier
+Beam Parallax Tracking Program
+Beta Nought Tracking Mode
+Azimuth Descalloping Tracking Enhancer
+FAQ Delay Line Scan Tracking Subroutines
+Fourier Transform Tracking Program
+Sigma Nought Tracking Mode 1
+Auto Gain Control Tracking Enhancer 1
+FaQ Phase Code Tracking Subroutines
+Small C5L Emergency Shield Overload 1
+Small Neutron Saturation Injector 1
+Small Clarity Ward Booster 1
+Small Converse Deflection Catalyzer
+M51 Iterative Shield Regenerator
+Supplemental Screen Generator 1
+Benefactor Ward Reconstructor
+Passive Barrier Compensator 1
+Compact Ship Scanner
+Scoped Survey Scanner
+Spot Pulsing ECCM 1
+Piercing ECCM Emitter 1
+Scattering ECCM Projector 1
+Phased Muon ECCM Caster 1
+Supplemental Ladar ECCM Scanning Array 1
+Supplemental Gravimetric ECCM Scanning Array 1
+Supplemental Omni ECCM Scanning Array 1
+Supplemental Radar ECCM Scanning Array 1
+Supplemental Magnetometric ECCM Scanning Array 1
+Prototype ECCM Radar Sensor Cluster
+Prototype ECCM Ladar Sensor Cluster
+Prototype ECCM Gravimetric Sensor Cluster
+Prototype ECCM Omni Sensor Cluster
+Prototype ECCM Magnetometric Sensor Cluster
+Alumel Radar ECCM Sensor Array 1
+Alumel Ladar ECCM Sensor Array 1
+Alumel Gravimetric ECCM Sensor Array 1
+Alumel Omni ECCM Sensor Array 1
+Alumel Magnetometric ECCM Sensor Array 1
+Gravimetric Positional ECCM Sensor System 1
+Radar Positional ECCM Sensor System 1
+Omni Positional ECCM Sensor System 1
+Ladar Positional ECCM Sensor System 1
+Magnetometric Positional ECCM Sensor System 1
+XR 3200 Heavy Missile Bay
+Experimental ZW 4100 Torpedo Launcher
+Experimental SV 2000 Rapid Light Missile Launcher
+Upgraded Malkuth Rapid Light Missile Launcher
+Limited Limos Rapid Light Missile Launcher
+Prototype Arbalest Rapid Light Missile Launcher
+Compact Light Missile Launcher
+Ample Light Missile Launcher
+Malkuth Heavy Missile Launcher 1
+Advanced Limos Heavy Missile Bay 1
+Arbalest Heavy Missile Launcher
+Upgraded Malkuth Torpedo Launcher
+Limited Limos Torpedo Launcher
+Prototype Arbalest Torpedo Launcher
+Compact Capacitor Flux Coil
+Restrained Capacitor Flux Coil
+Type D Restrained Capacitor Power Relay
+Mark 1 Compact Capacitor Power Relay
+Mark 1 Compact Power Diagnostic System
+Compact Reactor Control Unit
+Local Power Plant Manager Reaction Shield Flux 1
+Beta Reactor Control Shield Flux 1
+Type D Power Core Modification Shield Flux
+Mark 1 Generator Refitting Shield Flux
+Partial Power Plant Manager Shield Flux
+Alpha Reactor Shield Flux
+Type E Power Core Modification Shield Flux
+Marked Generator Refitting Shield Flux
+Local Power Plant Manager Reaction Shield Power Relay 1
+Beta Reactor Control Shield Power Relay 1
+Type D Power Core Modification Shield Power Relay
+Mark 1 Generator Refitting Shield Power Relay
+Partial Power Plant Manager Shield Power Relay
+Alpha Reactor Shield Power Relay
+Type E Power Core Modification Shield Power Relay
+Marked Generator Refitting Shield Power Relay
+Micro Subordinate Screen Stabilizer 1
+Medium Subordinate Screen Stabilizer 1
+Small Subordinate Screen Stabilizer 1
+Large Subordinate Screen Stabilizer 1
+Large Azeotropic Ward Salubrity 1
+Small Azeotropic Ward Salubrity 1
+Medium Azeotropic Ward Salubrity 1
+Micro Azeotropic Ward Salubrity 1
+Micro Supplemental Barrier Emitter 1
+Medium Supplemental Barrier Emitter 1
+Small Supplemental Barrier Emitter 1
+Large Supplemental Barrier Emitter 1
+Micro FS9 Regolith Shield Induction
+Medium FS9 Regolith Shield Induction
+Small FS9 Regolith Shield Induction
+Large FS9 Regolith Shield Induction
+Small Murky Remote Shield Booster
+Small Atonement Remote Shield Booster
+Small Asymmetric Remote Shield Booster
+Small S95a Remote Shield Booster
+Medium Murky Remote Shield Booster
+Medium Atonement Remote Shield Booster
+Medium Asymmetric Remote Shield Booster
+Medium S95a Remote Shield Booster
+Micro Murky Remote Shield Booster
+Micro Atonement Remote Shield Booster
+Micro Asymmetric Remote Shield Booster
+Micro S95a Remote Shield Booster
+Large Murky Remote Shield Booster
+Large Atonement Remote Shield Booster
+Large Asymmetric Remote Shield Booster
+Large S95a Remote Shield Booster
+Upgraded Co Processor
+Initiated Ion Field ECM 1
+FZ3 Subversive Spatial Destabilizer ECM
+Penumbra White Noise ECM
+Initiated Multispectral ECM 1
+Faint Phase Inversion ECM 1
+Upgraded Explosive Deflection Amplifier 1
+Supplemental EM Ward Amplifier
+Supplemental Thermic Dissipation Amplifier
+Upgraded Thermic Dissipation Amplifier 1
+Supplemental Kinetic Deflection Amplifier
+Supplemental Explosive Deflection Amplifier
+Upgraded EM Ward Amplifier 1
+Upgraded Kinetic Deflection Amplifier 1
+Limited Kinetic Deflection Field 1
+Limited Anointed EM Ward Field
+Limited Adaptive Invulnerability Field 1
+Limited Explosive Deflection Field 1
+Limited Thermic Dissipation Field 1
+Large Rudimentary Concussion Bomb 1
+Small Rudimentary Concussion Bomb 1
+Large Vehemence Shockwave Charge
+Small Vehemence Shockwave Charge
+Micro Rudimentary Concussion Bomb 1
+Micro Vehemence Shockwave Charge
+Medium Rudimentary Concussion Bomb 1
+Medium Vehemence Shockwave Charge
+Small Notos Explosive Charge 1
+Micro Notos Explosive Charge 1
+Medium Notos Explosive Charge 1
+Large Notos Explosive Charge 1
+Small YF12a Smartbomb
+Micro YF12a Smartbomb
+Medium YF12a Smartbomb
+Large YF12a Smartbomb
+Silicon
+Rocket Fuel
+Coolant
+Guidance Systems
+Consumer Electronics
+Superconductors
+Transmitter
+Miniature Electronics
+Planetary Vehicles
+Robotics
+Ocular Filter Basic
+Memory Augmentation Basic
+Neural Boost Basic
+Cybernetic Subprocessor Basic
+Magnetic Field Stabilizer 1
+Standard Crash Booster
+Standard Blue Pill Booster
+Social Adaptation Chip Basic
+Civilian Shield Booster
+Improved Crash Booster
+Strong Crash Booster
+Improved Blue Pill Booster
+Strong Blue Pill Booster
+Standard Sooth Sayer Booster
+Improved Sooth Sayer Booster
+Strong Sooth Sayer Booster
+Basic Magnetic Field Stabilizer
+Magnetic Field Stabilizer 2
+Memory Augmentation Standard
+Memory Augmentation Improved
+Neural Boost Standard
+Neural Boost Improved
+Ocular Filter Standard
+Ocular Filter Improved
+Cybernetic Subprocessor Standard
+Cybernetic Subprocessor Improved
+Social Adaptation Chip Standard
+Social Adaptation Chip Improved
+Mining Drone 1
+Mining Drone 2
+Gallente Administrative Outpost Platform
+Minmatar Service Outpost Platform
+Amarr Factory Outpost Platform
+Rocket Launcher 1
+Rocket Launcher 2
+Medium Shield Booster 1
+Large Shield Booster 1
+Extra Large Shield Booster 1
+Extra Large Shield Booster 2
+Medium Shield Booster 2
+Large Shield Booster 2
+Medium Neutron Saturation Injector 1
+Medium Clarity Ward Booster 1
+Medium Converse Deflection Catalyzer
+Medium C5L Emergency Shield Overload 1
+Large Neutron Saturation Injector 1
+Large Clarity Ward Booster 1
+Large Converse Deflection Catalyzer
+Large C5L Emergency Shield Overload 1
+Extra Large Neutron Saturation Injector 1
+Extra Large Clarity Ward Booster 1
+Extra Large Converse Deflection Catalyzer
+Extra Large C5L Emergency Shield Overload 1
+Warp Core Stabilizer 1
+Guardian Vexor
+Command Processor 1
+Skirmish Warfare Link Interdiction Maneuvers 1
+Information Warfare Link Sensor Integrity 1
+Small Railgun Specialization
+Small Beam Laser Specialization
+Small Autocannon Specialization
+Linear Flux Stabilizer 1
+Insulated Stabilizer Array 1
+Magnetic Vortex Stabilizer 1
+Gauss Field Balancer 1
+Linear Flux Stabilizer
+Insulated Stabilizer Array
+Magnetic Vortex Stabilizer
+Gauss Field Balancer
+Gallente Shuttle
+Minmatar Shuttle
+Amarr Shuttle
+Advanced Weapon Upgrades
+Basic Energized EM Membrane
+Energized EM Membrane 1
+Energized EM Membrane 2
+Basic Energized Explosive Membrane
+Energized Explosive Membrane 1
+Energized Explosive Membrane 2
+Basic Energized Armor Layering Membrane
+Energized Armor Layering Membrane 1
+Energized Armor Layering Membrane 2
+Basic Energized Kinetic Membrane
+Energized Kinetic Membrane 1
+Energized Kinetic Membrane 2
+Basic Energized Thermic Membrane
+Energized Thermic Membrane 1
+Energized Thermic Membrane 2
+Basic Energized Adaptive Nano Membrane
+Energized Adaptive Nano Membrane 1
+Energized Adaptive Nano Membrane 2
+Armor Thermic Hardener 1
+1600mm Reinforced Steel Plates 1
+Cap Booster 150
+Cap Booster 200
+Cap Booster 400
+Cap Booster 800
+50mm Reinforced Steel Plates 1
+100mm Reinforced Steel Plates 1
+200mm Reinforced Steel Plates 1
+400mm Reinforced Steel Plates 1
+800mm Reinforced Steel Plates 1
+Armor EM Hardener 1
+Armor Explosive Hardener 1
+Armor Kinetic Hardener 1
+400mm Reinforced Titanium Plates 1
+400mm Reinforced Rolled Tungsten Plates 1
+400mm Reinforced Crystalline Carbonide Plates 1
+400mm Reinforced Nanofiber Plates 1
+800mm Reinforced Titanium Plates 1
+800mm Reinforced Rolled Tungsten Plates 1
+800mm Reinforced Crystalline Carbonide Plates 1
+800mm Reinforced Nanofiber Plates 1
+1600mm Reinforced Titanium Plates 1
+1600mm Reinforced Rolled Tungsten Plates 1
+1600mm Reinforced Crystalline Carbonide Plates 1
+1600mm Reinforced Nanofiber Plates 1
+50mm Reinforced Titanium Plates 1
+50mm Reinforced Rolled Tungsten Plates 1
+50mm Reinforced Crystalline Carbonide Plates 1
+50mm Reinforced Nanofiber Plates 1
+100mm Reinforced Titanium Plates 1
+100mm Reinforced Rolled Tungsten Plates 1
+100mm Reinforced Crystalline Carbonide Plates 1
+100mm Reinforced Nanofiber Plates 1
+200mm Reinforced Titanium Plates 1
+200mm Reinforced Rolled Tungsten Plates 1
+200mm Reinforced Crystalline Carbonide Plates 1
+200mm Reinforced Nanofiber Plates 1
+Small Remote Armor Repairer 1
+Medium Remote Armor Repairer 1
+Large Remote Armor Repairer 1
+Prototype Cloaking Device 1
+Deep Core Mining
+Morphite
+High Energy Physics
+Plasma Physics
+Nanite Engineering
+Hydromagnetic Physics
+Amarr Starship Engineering
+Minmatar Starship Engineering
+Graviton Physics
+Laser Physics
+Electromagnetic Physics
+Rocket Science
+Gallente Starship Engineering
+Nuclear Physics
+Mechanical Engineering
+Electronic Engineering
+Caldari Starship Engineering
+Quantum Physics
+Research Database Viziam
+Research Database Khanid Innovation
+Research Database Carthum Conglomerate
+Research Database Thukker Mix
+Research Database Boundless Creations
+Research Database Core Complexion
+Research Database Ishukone
+Research Database Kaalakiota
+Research Database Roden Shipyards
+Research Database CreoDron
+Research Database Duvolle Labs
+Robotic Assembly Module Armor Hull Tech
+Robotic Assembly Module Ammunition Tech
+Robotic Assembly Module Starship Tech
+Robotic Assembly Module Robotics
+Robotic Assembly Module Energy Tech
+Robotic Assembly Module Electronics
+Robotic Assembly Module Shield Tech
+Robotic Assembly Module Cybernetics
+Robotic Assembly Module Weapon Tech
+Astronautic Engineering
+Huge Secure Container
+Giant Secure Container
+Datacore Defensive Subsystems Engineering
+Molecular Engineering
+Plasma Thruster
+Ion Thruster
+Fusion Thruster
+Magpulse Thruster
+Gravimetric Sensor Cluster
+Magnetometric Sensor Cluster
+Ladar Sensor Cluster
+Radar Sensor Cluster
+Nanomechanical Microprocessor
+Nanoelectrical Microprocessor
+Quantum Microprocessor
+Photon Microprocessor
+Fernite Carbide Composite Armor Plate
+Tungsten Carbide Armor Plate
+Titanium Diborite Armor Plate
+Crystalline Carbonide Armor Plate
+Fusion Reactor Unit
+Nuclear Reactor Unit
+Antimatter Reactor Unit
+Graviton Reactor Unit
+Electrolytic Capacitor Unit
+Scalar Capacitor Unit
+Oscillator Capacitor Unit
+Tesseract Capacitor Unit
+Deflection Shield Emitter
+Pulse Shield Emitter
+Linear Shield Emitter
+Sustained Shield Emitter
+Shield Boost Amplifier 1
+Micro Auxiliary Power Core 1
+Thermic Shield Compensation
+Avatar
+Armored Warfare Specialist
+Skirmish Warfare Specialist
+Wing Command
+Improved Cloaking Device 2
+Covert Ops Cloaking Device 2
+Cloaking
+Anchoring
+Warp Core Stabilizer 2
+Armor EM Hardener 2
+Armor Kinetic Hardener 2
+Armor Explosive Hardener 2
+Armor Thermic Hardener 2
+Particle Accelerator Unit
+Laser Focusing Crystals
+Superconductor Rails
+Thermonuclear Trigger Unit
+Nuclear Pulse Generator
+Graviton Pulse Generator
+EM Pulse Generator
+Plasma Pulse Generator
+Glossy Compound
+Plush Compound
+Sheen Compound
+Motley Compound
+Opulent Compound
+Dark Compound
+Lustering Alloy
+Precious Alloy
+Lucent Compound
+Condensed Alloy
+Gleaming Alloy
+Crystal Compound
+Research Database Lai Dai
+Apocalypse Imperial Issue
+Armageddon Imperial Issue
+Gold Magnate
+Silver Magnate
+10 Mega Newton Microwarpdrive 1
+100 Mega Newton Microwarpdrive 1
+10 Mega Newton Afterburner 1
+10 Mega Newton Afterburner 2
+100 Mega Newton Afterburner 1
+100 Mega Newton Afterburner 2
+10 Mega Newton Microwarpdrive 2
+100 Mega Newton Microwarpdrive 2
+Interceptors
+Covert Ops
+Assault Frigates
+Logistics
+Interdictors
+Large Remote Capacitor Transmitter 2
+Deep Core Mining Laser 1
+Research Project Management
+Arkonor Processing
+Bistot Processing
+Crokite Processing
+Dark Ochre Processing
+Gneiss Processing
+Hedbergite Processing
+Hemorphite Processing
+Jaspet Processing
+Kernite Processing
+Mercoxit Processing
+Omber Processing
+Plagioclase Processing
+Pyroxeres Processing
+Scordite Processing
+Spodumain Processing
+Veldspar Processing
+Scrapmetal Processing
+Mobile Small Warp Disruptor 1
+Mobile Medium Warp Disruptor 1
+Mobile Large Warp Disruptor 1
+Small Artillery Specialization
+Medium Artillery Specialization
+Large Artillery Specialization
+Medium Beam Laser Specialization
+Large Beam Laser Specialization
+Medium Railgun Specialization
+Large Railgun Specialization
+Medium Autocannon Specialization
+Large Autocannon Specialization
+Small Blaster Specialization
+Medium Blaster Specialization
+Large Blaster Specialization
+Small Pulse Laser Specialization
+Medium Pulse Laser Specialization
+Large Pulse Laser Specialization
+Medium Remote Capacitor Transmitter 1
+Capital Remote Capacitor Transmitter 1
+Medium Remote Capacitor Transmitter 2
+Large Remote Capacitor Transmitter 1
+Amarr Control Tower
+Gallente Control Tower
+Ship Maintenance Array
+Reprocessing Array
+Compression Array
+Sovereignty
+Medium Nosferatu 1
+Medium Nosferatu 2
+Heavy Nosferatu 1
+Heavy Nosferatu 2
+Medium Energy Neutralizer 1
+Medium Energy Neutralizer 2
+Heavy Energy Neutralizer 1
+Heavy Energy Neutralizer 2
+Ballistic Control System 1
+Drone Navigation
+EM Shield Compensation
+Kinetic Shield Compensation
+Explosive Shield Compensation
+Missile Bombardment
+Missile Projection
+Amarr Drone Specialization
+Minmatar Drone Specialization
+Gallente Drone Specialization
+Caldari Drone Specialization
+Gleam Small
+Aurora Small
+Scorch Small
+Conflagration Small
+Hail Small
+Void Small
+Null Small
+Spike Small
+Javelin Small
+Barrage Small
+Quake Small
+Tremor Small
+Target Painter 1
+Quake Large
+Tremor Large
+Quake Medium
+Tremor Medium
+Barrage Medium
+Barrage Large
+Hail Medium
+Hail Large
+Null Medium
+Null Large
+Void Medium
+Void Large
+Javelin Medium
+Javelin Large
+Spike Medium
+Spike Large
+Conflagration Medium
+Conflagration Large
+Scorch Medium
+Scorch Large
+Aurora Medium
+Aurora Large
+Gleam Medium
+Gleam Large
+Transcranial Microcontrollers
+Small Nosferatu 2
+Small Energy Neutralizer 2
+Mjolnir Javelin Rocket
+Megathron Federate Issue
+Archaeology
+Remote Sensing
+Limited Ocular Filter
+Limited Memory Augmentation
+Limited Neural Boost
+Limited Social Adaptation Chip
+Limited Cybernetic Subprocessor
+Cruise Missile Launcher 1
+Equipment Assembly Array
+Nova Javelin Heavy Assault Missile
+Domination Rapid Light Missile Launcher
+Dread Guristas Rapid Light Missile Launcher
+Domination Heavy Missile Launcher
+Dread Guristas Heavy Missile Launcher
+Domination Torpedo Launcher
+Dread Guristas Torpedo Launcher
+Domination Light Missile Launcher
+Dread Guristas Light Missile Launcher
+Domination Cruise Missile Launcher
+Dread Guristas Cruise Missile Launcher
+Domination Rocket Launcher
+Dread Guristas Rocket Launcher
+Domination Ballistic Control System
+Dread Guristas Ballistic Control System
+Domination Gyrostabilizer
+Dark Blood Heat Sink
+True Sansha Heat Sink
+Shadow Serpentis Magnetic Field Stabilizer
+Dread Guristas Large Shield Booster
+Domination Large Shield Booster
+Dread Guristas Medium Shield Booster
+Domination Medium Shield Booster
+Dread Guristas Small Shield Booster
+Domination Small Shield Booster
+Dread Guristas Extra Large Shield Booster
+Domination Extra Large Shield Booster
+Domination Large Armor Repairer
+True Sansha Large Armor Repairer
+Dark Blood Large Armor Repairer
+Domination Medium Armor Repairer
+True Sansha Medium Armor Repairer
+Dark Blood Medium Armor Repairer
+Domination Small Armor Repairer
+True Sansha Small Armor Repairer
+Dark Blood Small Armor Repairer
+Dread Guristas EM Ward Field
+Dread Guristas Thermic Dissipation Field
+Dread Guristas Explosive Deflection Field
+Dread Guristas Kinetic Deflection Field
+Dread Guristas Adaptive Invulnerability Field
+True Sansha Armor EM Hardener
+Dark Blood Armor EM Hardener
+True Sansha Armor Explosive Hardener
+Dark Blood Armor Explosive Hardener
+True Sansha Armor Kinetic Hardener
+Dark Blood Armor Kinetic Hardener
+True Sansha Armor Thermic Hardener
+Dark Blood Armor Thermic Hardener
+Domination Armor EM Hardener
+Domination Armor Explosive Hardener
+Domination Armor Kinetic Hardener
+Domination Armor Thermic Hardener
+Domination EM Ward Field
+Domination Thermic Dissipation Field
+Domination Explosive Deflection Field
+Domination Kinetic Deflection Field
+Domination Adaptive Invulnerability Field
+Domination Adaptive Nano Plating
+True Sansha Adaptive Nano Plating
+Dark Blood Adaptive Nano Plating
+Domination Kinetic Plating
+True Sansha Kinetic Plating
+Dark Blood Kinetic Plating
+Domination Explosive Plating
+True Sansha Explosive Plating
+Dark Blood Explosive Plating
+Domination EM Plating
+True Sansha EM Plating
+Dark Blood EM Plating
+Domination Thermic Plating
+True Sansha Thermic Plating
+Dark Blood Thermic Plating
+Domination Explosive Deflection Amplifier
+Dread Guristas Explosive Deflection Amplifier
+Domination Thermic Dissipation Amplifier
+Dread Guristas Thermic Dissipation Amplifier
+Domination Kinetic Deflection Amplifier
+Dread Guristas Kinetic Deflection Amplifier
+Domination EM Ward Amplifier
+Dread Guristas EM Ward Amplifier
+Domination Shield Boost Amplifier
+Dread Guristas Shield Boost Amplifier
+Shadow Serpentis Adaptive Nano Plating
+Shadow Serpentis Kinetic Plating
+Shadow Serpentis Explosive Plating
+Shadow Serpentis EM Plating
+Shadow Serpentis Thermic Plating
+Shadow Serpentis Armor EM Hardener
+Shadow Serpentis Armor Explosive Hardener
+Shadow Serpentis Armor Kinetic Hardener
+Shadow Serpentis Armor Thermic Hardener
+Shadow Serpentis Large Armor Repairer
+Shadow Serpentis Medium Armor Repairer
+Shadow Serpentis Small Armor Repairer
+Dark Blood Energized Adaptive Nano Membrane
+True Sansha Energized Adaptive Nano Membrane
+Shadow Serpentis Energized Adaptive Nano Membrane
+Dark Blood Energized Kinetic Membrane
+True Sansha Energized Kinetic Membrane
+Shadow Serpentis Energized Kinetic Membrane
+Dark Blood Energized Explosive Membrane
+True Sansha Energized Explosive Membrane
+Shadow Serpentis Energized Explosive Membrane
+Dark Blood Energized EM Membrane
+True Sansha Energized EM Membrane
+Shadow Serpentis Energized EM Membrane
+Dark Blood Energized Thermic Membrane
+True Sansha Energized Thermic Membrane
+Shadow Serpentis Energized Thermic Membrane
+Domination Tracking Enhancer
+Domination 100 Mega Newton Afterburner
+Shadow Serpentis 100 Mega Newton Afterburner
+Domination 10 Mega Newton Afterburner
+Shadow Serpentis 10 Mega Newton Afterburner
+Domination 1 Mega Newton Afterburner
+Shadow Serpentis 1 Mega Newton Afterburner
+Domination 100 Mega Newton Microwarpdrive
+Shadow Serpentis 100 Mega Newton Microwarpdrive
+Domination 10 Mega Newton Microwarpdrive
+Shadow Serpentis 10 Mega Newton Microwarpdrive
+Domination 1 Mega Newton Microwarpdrive
+Shadow Serpentis 1 Mega Newton Microwarpdrive
+Domination Overdrive Injector
+Domination Nanofiber Structure
+Dark Blood Reactor Control Unit
+True Sansha Reactor Control Unit
+Shadow Serpentis Reactor Control Unit
+Dark Blood Power Diagnostic System
+True Sansha Power Diagnostic System
+Shadow Serpentis Power Diagnostic System
+True Sansha Cap Recharger
+Dark Blood Cap Recharger
+Dark Blood Capacitor Power Relay
+True Sansha Capacitor Power Relay
+Dark Blood Small Nosferatu
+True Sansha Small Nosferatu
+Dark Blood Heavy Nosferatu
+True Sansha Heavy Nosferatu
+Dark Blood Medium Nosferatu
+True Sansha Medium Nosferatu
+Dark Blood Small Energy Neutralizer
+True Sansha Small Energy Neutralizer
+Dark Blood Medium Energy Neutralizer
+True Sansha Medium Energy Neutralizer
+Dark Blood Heavy Energy Neutralizer
+True Sansha Heavy Energy Neutralizer
+Dark Blood Heavy Capacitor Booster
+True Sansha Heavy Capacitor Booster
+Dark Blood Medium Capacitor Booster
+True Sansha Medium Capacitor Booster
+Dark Blood Micro Capacitor Booster
+True Sansha Micro Capacitor Booster
+Dark Blood Small Capacitor Booster
+True Sansha Small Capacitor Booster
+Dark Blood Large EMP Smartbomb
+True Sansha Large EMP Smartbomb
+Dark Blood Medium EMP Smartbomb
+True Sansha Medium EMP Smartbomb
+Dark Blood Micro EMP Smartbomb
+True Sansha Micro EMP Smartbomb
+Dark Blood Small EMP Smartbomb
+True Sansha Small EMP Smartbomb
+Dread Guristas Large Graviton Smartbomb
+Shadow Serpentis Large Plasma Smartbomb
+Domination Large Proton Smartbomb
+Dread Guristas Medium Graviton Smartbomb
+Dread Guristas Micro Graviton Smartbomb
+Dread Guristas Small Graviton Smartbomb
+Shadow Serpentis Micro Plasma Smartbomb
+Shadow Serpentis Medium Plasma Smartbomb
+Domination Medium Proton Smartbomb
+Domination Micro Proton Smartbomb
+Domination Small Proton Smartbomb
+Shadow Serpentis Small Plasma Smartbomb
+Dread Guristas Co Processor
+Shadow Serpentis Co Processor
+Dread Guristas Cloaking Device
+Shadow Serpentis Sensor Booster
+Shadow Serpentis Tracking Computer
+Shadow Serpentis Remote Tracking Computer
+Dark Blood Warp Disruptor
+Domination Warp Disruptor
+Dread Guristas Warp Disruptor
+True Sansha Warp Disruptor
+Shadow Serpentis Warp Disruptor
+Dark Blood Warp Scrambler
+Domination Warp Scrambler
+Dread Guristas Warp Scrambler
+True Sansha Warp Scrambler
+Shadow Serpentis Warp Scrambler
+Dark Blood Stasis Webifier
+Domination Stasis Webifier
+Dread Guristas Stasis Webifier
+True Sansha Stasis Webifier
+Shadow Serpentis Stasis Webifier
+Limited Ocular Filter Beta
+Limited Neural Boost Beta
+Limited Memory Augmentation Beta
+Limited Cybernetic Subprocessor Beta
+Limited Social Adaptation Chip Beta
+Silo
+Mizuro's Modified 100 Mega Newton Afterburner
+Hakim's Modified 100 Mega Newton Afterburner
+Gotan's Modified 100 Mega Newton Afterburner
+Tobias' Modified 100 Mega Newton Afterburner
+Mizuro's Modified 100 Mega Newton Microwarpdrive
+Hakim's Modified 100 Mega Newton Microwarpdrive
+Gotan's Modified 100 Mega Newton Microwarpdrive
+Tobias' Modified 100 Mega Newton Microwarpdrive
+Brynn's Modified 100 Mega Newton Afterburner
+Tuvan's Modified 100 Mega Newton Afterburner
+Setele's Modified 100 Mega Newton Afterburner
+Cormack's Modified 100 Mega Newton Afterburner
+Brynn's Modified 100 Mega Newton Microwarpdrive
+Tuvan's Modified 100 Mega Newton Microwarpdrive
+Setele's Modified 100 Mega Newton Microwarpdrive
+Cormack's Modified 100 Mega Newton Microwarpdrive
+Mizuro's Modified Cruise Missile Launcher
+Hakim's Modified Cruise Missile Launcher
+Gotan's Modified Cruise Missile Launcher
+Tobias' Modified Cruise Missile Launcher
+Mizuro's Modified Torpedo Launcher
+Hakim's Modified Torpedo Launcher
+Gotan's Modified Torpedo Launcher
+Tobias's Modified Torpedo Launcher
+Hakim's Modified Ballistic Control System
+Mizuro's Modified Ballistic Control System
+Gotan's Modified Ballistic Control System
+Tobias' Modified Ballistic Control System
+Mizuro's Modified Gyrostabilizer
+Hakim's Modified Gyrostabilizer
+Gotan's Modified Gyrostabilizer
+Tobias' Modified Gyrostabilizer
+Mizuro's Modified Large Proton Smartbomb
+Hakim's Modified Large Proton Smartbomb
+Gotan's Modified Large Proton Smartbomb
+Tobias' Modified Large Proton Smartbomb
+Mizuro's Modified Large Armor Repairer
+Gotan's Modified Large Armor Repairer
+Mizuro's Modified Adaptive Nano Plating
+Gotan's Modified Adaptive Nano Plating
+Mizuro's Modified Kinetic Plating
+Gotan's Modified Kinetic Plating
+Mizuro's Modified Explosive Plating
+Gotan's Modified Explosive Plating
+Mizuro's Modified EM Plating
+Gotan's Modified EM Plating
+Mizuro's Modified Thermic Plating
+Gotan's Modified Thermic Plating
+Hakim's Modified Large Shield Booster
+Tobias' Modified Large Shield Booster
+Hakim's Modified Extra Large Shield Booster
+Tobias' Modified Extra Large Shield Booster
+Hakim's Modified Explosive Deflection Amplifier
+Tobias' Modified Explosive Deflection Amplifier
+Hakim's Modified Thermic Dissipation Amplifier
+Tobias' Modified Thermic Dissipation Amplifier
+Hakim's Modified Kinetic Deflection Amplifier
+Tobias' Modified Kinetic Deflection Amplifier
+Hakim's Modified EM Ward Amplifier
+Tobias' Modified EM Ward Amplifier
+Hakim's Modified Shield Boost Amplifier
+Tobias' Modified Shield Boost Amplifier
+Mizuro's Modified Tracking Enhancer
+Hakim's Modified Tracking Enhancer
+Gotan's Modified Tracking Enhancer
+Tobias' Modified Tracking Enhancer
+Mizuro's Modified Stasis Webifier
+Hakim's Modified Stasis Webifier
+Gotan's Modified Stasis Webifier
+Tobias' Modified Stasis Webifier
+Mizuro's Modified Warp Disruptor
+Hakim's Modified Warp Disruptor
+Gotan's Modified Warp Disruptor
+Tobias' Modified Warp Disruptor
+Mizuro's Modified Warp Scrambler
+Hakim's Modified Warp Scrambler
+Gotan's Modified Warp Scrambler
+Tobias' Modified Warp Scrambler
+Kaikka's Modified Cruise Missile Launcher
+Thon's Modified Cruise Missile Launcher
+Vepas' Modified Cruise Missile Launcher
+Estamel's Modified Cruise Missile Launcher
+Kaikka's Modified Torpedo Launcher
+Thon's Modified Torpedo Launcher
+Vepas's Modified Torpedo Launcher
+Estamel's Modified Torpedo Launcher
+Kaikka's Modified Ballistic Control System
+Thon's Modified Ballistic Control System
+Vepas' Modified Ballistic Control System
+Estamel's Modified Ballistic Control System
+Kaikka's Modified Large Graviton Smartbomb
+Thon's Modified Large Graviton Smartbomb
+Vepas' Modified Large Graviton Smartbomb
+Estamel's Modified Large Graviton Smartbomb
+Kaikka's Modified Large Shield Booster
+Thon's Modified Large Shield Booster
+Vepas' Modified Large Shield Booster
+Estamel's Modified Large Shield Booster
+Kaikka's Modified Extra Large Shield Booster
+Thon's Modified Extra Large Shield Booster
+Vepas' Modified Extra Large Shield Booster
+Estamel's Modified Extra Large Shield Booster
+Kaikka's Modified Shield Boost Amplifier
+Thon's Modified Shield Boost Amplifier
+Vepas' Modified Shield Boost Amplifier
+Estamel's Modified Shield Boost Amplifier
+Kaikka's Modified Explosive Deflection Amplifier
+Thon's Modified Explosive Deflection Amplifier
+Vepas' Modified Explosive Deflection Amplifier
+Estamel's Modified Explosive Deflection Amplifier
+Kaikka's Modified Thermic Dissipation Amplifier
+Thon's Modified Thermic Dissipation Amplifier
+Vepas' Modified Thermic Dissipation Amplifier
+Estamel's Modified Thermic Dissipation Amplifier
+Kaikka's Modified Kinetic Deflection Amplifier
+Thon's Modified Kinetic Deflection Amplifier
+Vepas' Modified Kinetic Deflection Amplifier
+Estamel's Modified Kinetic Deflection Amplifier
+Kaikka's Modified EM Ward Amplifier
+Thon's Modified EM Ward Amplifier
+Vepas' Modified EM Ward Amplifier
+Estamel's Modified EM Ward Amplifier
+Kaikka's Modified Kinetic Deflection Field
+Thon's Modified Kinetic Deflection Field
+Vepas's Modified Kinetic Deflection Field
+Estamel's Modified Kinetic Deflection Field
+Kaikka's Modified EM Ward Field
+Thon's Modified EM Ward Field
+Vepas's Modified EM Ward Field
+Estamel's Modified EM Ward Field
+Kaikka's Modified Explosive Deflection Field
+Thon's Modified Explosive Deflection Field
+Vepas's Modified Explosive Deflection Field
+Estamel's Modified Explosive Deflection Field
+Kaikka's Modified Thermic Dissipation Field
+Thon's Modified Thermic Dissipation Field
+Vepas's Modified Thermic Dissipation Field
+Estamel's Modified Thermic Dissipation Field
+Kaikka's Modified Adaptive Invulnerability Field
+Thon's Modified Adaptive Invulnerability Field
+Vepas's Modified Adaptive Invulnerability Field
+Estamel's Modified Adaptive Invulnerability Field
+Kaikka's Modified Co Processor
+Thon's Modified Co Processor
+Vepas' Modified Co Processor
+Estamel's Modified Co Processor
+Kaikka's Modified Cloaking Device
+Thon's Modified Cloaking Device
+Vepas' Modified Cloaking Device
+Estamel's Modified Cloaking Device
+Brokara's Modified Large EMP Smartbomb
+Tairei's Modified Large EMP Smartbomb
+Selynne's Modified Large EMP Smartbomb
+Raysere's Modified Large EMP Smartbomb
+Vizan's Modified Large EMP Smartbomb
+Ahremen's Modified Large EMP Smartbomb
+Chelm's Modified Large EMP Smartbomb
+Draclira's Modified Large EMP Smartbomb
+Brokara's Modified Heat Sink
+Tairei's Modified Heat Sink
+Selynne's Modified Heat Sink
+Raysere's Modified Heat Sink
+Vizan's Modified Heat Sink
+Ahremen's Modified Heat Sink
+Chelm's Modified Heat Sink
+Draclira's Modified Heat Sink
+Brokara's Modified Heavy Nosferatu
+Tairei's Modified Heavy Nosferatu
+Selynne's Modified Heavy Nosferatu
+Raysere's Modified Heavy Nosferatu
+Vizan's Modified Heavy Nosferatu
+Ahremen's Modified Heavy Nosferatu
+Chelm's Modified Heavy Nosferatu
+Draclira's Modified Heavy Nosferatu
+Brokara's Modified Heavy Energy Neutralizer
+Tairei's Modified Heavy Energy Neutralizer
+Selynne's Modified Heavy Energy Neutralizer
+Raysere's Modified Heavy Energy Neutralizer
+Vizan's Modified Heavy Energy Neutralizer
+Ahremen's Modified Heavy Energy Neutralizer
+Chelm's Modified Heavy Energy Neutralizer
+Draclira's Modified Heavy Energy Neutralizer
+Brokara's Modified Large Armor Repairer
+Tairei's Modified Large Armor Repairer
+Selynne's Modified Large Armor Repairer
+Raysere's Modified Large Armor Repairer
+Vizan's Modified Large Armor Repairer
+Ahremen's Modified Large Armor Repairer
+Chelm's Modified Large Armor Repairer
+Draclira's Modified Large Armor Repairer
+Brokara's Modified Adaptive Nano Plating
+Tairei's Modified Adaptive Nano Plating
+Selynne's Modified Adaptive Nano Plating
+Raysere's Modified Adaptive Nano Plating
+Vizan's Modified Adaptive Nano Plating
+Ahremen's Modified Adaptive Nano Plating
+Chelm's Modified Adaptive Nano Plating
+Draclira's Modified Adaptive Nano Plating
+Brokara's Modified Kinetic Plating
+Tairei's Modified Kinetic Plating
+Selynne's Modified Kinetic Plating
+Raysere's Modified Kinetic Plating
+Vizan's Modified Kinetic Plating
+Ahremen's Modified Kinetic Plating
+Chelm's Modified Kinetic Plating
+Draclira's Modified Kinetic Plating
+Brokara's Modified Explosive Plating
+Tairei's Modified Explosive Plating
+Selynne's Modified Explosive Plating
+Raysere's Modified Explosive Plating
+Vizan's Modified Explosive Plating
+Ahremen's Modified Explosive Plating
+Chelm's Modified Explosive Plating
+Draclira's Modified Explosive Plating
+Brokara's Modified EM Plating
+Tairei's Modified EM Plating
+Selynne's Modified EM Plating
+Raysere's Modified EM Plating
+Vizan's Modified EM Plating
+Ahremen's Modified EM Plating
+Chelm's Modified EM Plating
+Draclira's Modified EM Plating
+Brokara's Modified Thermic Plating
+Tairei's Modified Thermic Plating
+Selynne's Modified Thermic Plating
+Raysere's Modified Thermic Plating
+Vizan's Modified Thermic Plating
+Ahremen's Modified Thermic Plating
+Chelm's Modified Thermic Plating
+Draclira's Modified Thermic Plating
+Brokara's Modified Energized Adaptive Nano Membrane
+Tairei's Modified Energized Adaptive Nano Membrane
+Selynne's Modified Energized Adaptive Nano Membrane
+Raysere's Modified Energized Adaptive Nano Membrane
+Vizan's Modified Energized Adaptive Nano Membrane
+Ahremen's Modified Energized Adaptive Nano Membrane
+Chelm's Modified Energized Adaptive Nano Membrane
+Draclira's Modified Energized Adaptive Nano Membrane
+Brokara's Modified Energized Thermic Membrane
+Tairei's Modified Energized Thermic Membrane
+Selynne's Modified Energized Thermic Membrane
+Raysere's Modified Energized Thermic Membrane
+Vizan's Modified Energized Thermic Membrane
+Ahremen's Modified Energized Thermic Membrane
+Chelm's Modified Energized Thermic Membrane
+Draclira's Modified Energized Thermic Membrane
+Brokara's Modified Energized EM Membrane
+Tairei's Modified Energized EM Membrane
+Selynne's Modified Energized EM Membrane
+Raysere's Modified Energized EM Membrane
+Vizan's Modified Energized EM Membrane
+Ahremen's Modified Energized EM Membrane
+Chelm's Modified Energized EM Membrane
+Draclira's Modified Energized EM Membrane
+Brokara's Modified Energized Explosive Membrane
+Tairei's Modified Energized Explosive Membrane
+Selynne's Modified Energized Explosive Membrane
+Raysere's Modified Energized Explosive Membrane
+Vizan's Modified Energized Explosive Membrane
+Ahremen's Modified Energized Explosive Membrane
+Chelm's Modified Energized Explosive Membrane
+Draclira's Modified Energized Explosive Membrane
+Brokara's Modified Energized Kinetic Membrane
+Tairei's Modified Energized Kinetic Membrane
+Selynne's Modified Energized Kinetic Membrane
+Raysere's Modified Energized Kinetic Membrane
+Vizan's Modified Energized Kinetic Membrane
+Ahremen's Modified Energized Kinetic Membrane
+Chelm's Modified Energized Kinetic Membrane
+Draclira's Modified Energized Kinetic Membrane
+Brokara's Modified Armor EM Hardener
+Tairei's Modified Armor EM Hardener
+Selynne's Modified Armor EM Hardener
+Raysere's Modified Armor EM Hardener
+Vizan's Modified Armor EM Hardener
+Ahremen's Modified Armor EM Hardener
+Chelm's Modified Armor EM Hardener
+Draclira's Modified Armor EM Hardener
+Brokara's Modified Armor Thermic Hardener
+Tairei's Modified Armor Thermic Hardener
+Selynne's Modified Armor Thermic Hardener
+Raysere's Modified Armor Thermic Hardener
+Vizan's Modified Armor Thermic Hardener
+Ahremen's Modified Armor Thermic Hardener
+Chelm's Modified Armor Thermic Hardener
+Draclira's Modified Armor Thermic Hardener
+Brokara's Modified Armor Kinetic Hardener
+Tairei's Modified Armor Kinetic Hardener
+Selynne's Modified Armor Kinetic Hardener
+Raysere's Modified Armor Kinetic Hardener
+Vizan's Modified Armor Kinetic Hardener
+Ahremen's Modified Armor Kinetic Hardener
+Chelm's Modified Armor Kinetic Hardener
+Draclira's Modified Armor Kinetic Hardener
+Brokara's Modified Armor Explosive Hardener
+Tairei's Modified Armor Explosive Hardener
+Selynne's Modified Armor Explosive Hardener
+Raysere's Modified Armor Explosive Hardener
+Vizan's Modified Armor Explosive Hardener
+Ahremen's Modified Armor Explosive Hardener
+Chelm's Modified Armor Explosive Hardener
+Draclira's Modified Armor Explosive Hardener
+Brokara's Modified Capacitor Power Relay
+Tairei's Modified Capacitor Power Relay
+Selynne's Modified Capacitor Power Relay
+Raysere's Modified Capacitor Power Relay
+Vizan's Modified Capacitor Power Relay
+Ahremen's Modified Capacitor Power Relay
+Chelm's Modified Capacitor Power Relay
+Draclira's Modified Capacitor Power Relay
+Brokara's Modified Power Diagnostic System
+Tairei's Modified Power Diagnostic System
+Selynne's Modified Power Diagnostic System
+Raysere's Modified Power Diagnostic System
+Vizan's Modified Power Diagnostic System
+Ahremen's Modified Power Diagnostic System
+Chelm's Modified Power Diagnostic System
+Draclira's Modified Power Diagnostic System
+Brokara's Modified Reactor Control Unit
+Tairei's Modified Reactor Control Unit
+Selynne's Modified Reactor Control Unit
+Raysere's Modified Reactor Control Unit
+Vizan's Modified Reactor Control Unit
+Ahremen's Modified Reactor Control Unit
+Chelm's Modified Reactor Control Unit
+Draclira's Modified Reactor Control Unit
+Brokara's Modified Heavy Capacitor Booster
+Tairei's Modified Heavy Capacitor Booster
+Selynne's Modified Heavy Capacitor Booster
+Raysere's Modified Heavy Capacitor Booster
+Vizan's Modified Heavy Capacitor Booster
+Ahremen's Modified Heavy Capacitor Booster
+Chelm's Modified Heavy Capacitor Booster
+Draclira's Modified Heavy Capacitor Booster
+Brynn's Modified Magnetic Field Stabilizer
+Tuvan's Modified Magnetic Field Stabilizer
+Setele's Modified Magnetic Field Stabilizer
+Cormack's Modified Magnetic Field Stabilizer
+Brynn's Modified Large Plasma Smartbomb
+Tuvan's Modified Large Plasma Smartbomb
+Setele's Modified Large Plasma Smartbomb
+Cormack's Modified Large Plasma Smartbomb
+Brynn's Modified Large Armor Repairer
+Tuvan's Modified Large Armor Repairer
+Setele's Modified Large Armor Repairer
+Cormack's Modified Large Armor Repairer
+Brynn's Modified Adaptive Nano Plating
+Tuvan's Modified Adaptive Nano Plating
+Setele's Modified Adaptive Nano Plating
+Cormack's Modified Adaptive Nano Plating
+Brynn's Modified Thermic Plating
+Tuvan's Modified Thermic Plating
+Setele's Modified Thermic Plating
+Cormack's Modified Thermic Plating
+Brynn's Modified EM Plating
+Tuvan's Modified EM Plating
+Setele's Modified EM Plating
+Cormack's Modified EM Plating
+Brynn's Modified Explosive Plating
+Tuvan's Modified Explosive Plating
+Setele's Modified Explosive Plating
+Cormack's Modified Explosive Plating
+Brynn's Modified Kinetic Plating
+Tuvan's Modified Kinetic Plating
+Setele's Modified Kinetic Plating
+Cormack's Modified Kinetic Plating
+Brynn's Modified Energized Adaptive Nano Membrane
+Tuvan's Modified Energized Adaptive Nano Membrane
+Setele's Modified Energized Adaptive Nano Membrane
+Cormack's Modified Energized Adaptive Nano Membrane
+Brynn's Modified Energized Thermic Membrane
+Tuvan's Modified Energized Thermic Membrane
+Setele's Modified Energized Thermic Membrane
+Cormack's Modified Energized Thermic Membrane
+Brynn's Modified Energized EM Membrane
+Tuvan's Modified Energized EM Membrane
+Setele's Modified Energized EM Membrane
+Cormack's Modified Energized EM Membrane
+Brynn's Modified Energized Explosive Membrane
+Tuvan's Modified Energized Explosive Membrane
+Setele's Modified Energized Explosive Membrane
+Cormack's Modified Energized Explosive Membrane
+Brynn's Modified Energized Kinetic Membrane
+Tuvan's Modified Energized Kinetic Membrane
+Setele's Modified Energized Kinetic Membrane
+Cormack's Modified Energized Kinetic Membrane
+Brynn's Modified Armor EM Hardener
+Tuvan's Modified Armor EM Hardener
+Setele's Modified Armor EM Hardener
+Cormack's Modified Armor EM Hardener
+Brynn's Modified Armor Thermic Hardener
+Tuvan's Modified Armor Thermic Hardener
+Setele's Modified Armor Thermic Hardener
+Cormack's Modified Armor Thermic Hardener
+Brynn's Modified Armor Kinetic Hardener
+Tuvan's Modified Armor Kinetic Hardener
+Setele's Modified Armor Kinetic Hardener
+Cormack's Modified Armor Kinetic Hardener
+Brynn's Modified Armor Explosive Hardener
+Tuvan's Modified Armor Explosive Hardener
+Setele's Modified Armor Explosive Hardener
+Cormack's Modified Armor Explosive Hardener
+Brynn's Modified Sensor Booster
+Tuvan's Modified Sensor Booster
+Setele's Modified Sensor Booster
+Cormack's Modified Sensor Booster
+Brynn's Modified Tracking Computer
+Tuvan's Modified Tracking Computer
+Setele's Modified Tracking Computer
+Cormack's Modified Tracking Computer
+Brynn's Modified Power Diagnostic System
+Tuvan's Modified Power Diagnostic System
+Setele's Modified Power Diagnostic System
+Cormack's Modified Power Diagnostic System
+Brynn's Modified Reactor Control Unit
+Tuvan's Modified Reactor Control Unit
+Setele's Modified Reactor Control Unit
+Cormack's Modified Reactor Control Unit
+Brynn's Modified Co Processor
+Tuvan's Modified Co Processor
+Setele's Modified Co Processor
+Cormack's Modified Co Processor
+Genetically Enhanced Livestock
+Naiyon's Modified Magnetic Field Stabilizer
+Makur's Modified Warp Disruptor
+Makur's Modified Warp Scrambler
+Makur's Modified Capacitor Power Relay
+Shaqil's Modified Gyrostabilizer
+Shaqil's Modified Heavy Nosferatu
+Shaqil's Modified Energized Thermic Membrane
+Shaqil's Modified Energized Adaptive Nano Membrane
+Standard X Instinct Booster
+Improved X Instinct Booster
+Strong X Instinct Booster
+Standard Frentix Booster
+Improved Frentix Booster
+Strong Frentix Booster
+Standard Mindflood Booster
+Improved Mindflood Booster
+Strong Mindflood Booster
+Standard Drop Booster
+Improved Drop Booster
+Strong Drop Booster
+Standard Exile Booster
+Improved Exile Booster
+Vespa 1
+Valkyrie 1
+Caldari Navy Co Processor
+Federation Navy Co Processor
+Caldari Navy Ballistic Control System
+Republic Fleet Ballistic Control System
+Imperial Navy Thermic Plating
+Imperial Navy EM Plating
+Imperial Navy Explosive Plating
+Imperial Navy Kinetic Plating
+Imperial Navy Adaptive Nano Plating
+Republic Fleet Thermic Plating
+Republic Fleet EM Plating
+Republic Fleet Explosive Plating
+Republic Fleet Kinetic Plating
+Republic Fleet Adaptive Nano Plating
+Imperial Navy Armor Thermic Hardener
+Imperial Navy Armor Kinetic Hardener
+Imperial Navy Armor Explosive Hardener
+Imperial Navy Armor EM Hardener
+Republic Fleet Armor Thermic Hardener
+Republic Fleet Armor Kinetic Hardener
+Republic Fleet Armor Explosive Hardener
+Republic Fleet Armor EM Hardener
+Imperial Navy Energized Thermic Membrane
+Imperial Navy Energized EM Membrane
+Imperial Navy Energized Explosive Membrane
+Imperial Navy Energized Kinetic Membrane
+Imperial Navy Energized Adaptive Nano Membrane
+Federation Navy Energized Thermic Membrane
+Federation Navy Energized EM Membrane
+Federation Navy Energized Explosive Membrane
+Federation Navy Energized Kinetic Membrane
+Federation Navy Energized Adaptive Nano Membrane
+Ammatar Navy Small Armor Repairer
+Ammatar Navy Medium Armor Repairer
+Ammatar Navy Large Armor Repairer
+Federation Navy Small Armor Repairer
+Federation Navy Medium Armor Repairer
+Federation Navy Large Armor Repairer
+Republic Fleet 1 Mega Newton Microwarpdrive
+Republic Fleet 1 Mega Newton Afterburner
+Republic Fleet 10 Mega Newton Microwarpdrive
+Republic Fleet 10 Mega Newton Afterburner
+Republic Fleet 100 Mega Newton Microwarpdrive
+Republic Fleet 100 Mega Newton Afterburner
+Federation Navy 1 Mega Newton Microwarpdrive
+Federation Navy 1 Mega Newton Afterburner
+Federation Navy 10 Mega Newton Microwarpdrive
+Federation Navy 10 Mega Newton Afterburner
+Federation Navy 100 Mega Newton Microwarpdrive
+Federation Navy 100 Mega Newton Afterburner
+Ammatar Navy Small Capacitor Booster
+Ammatar Navy Micro Capacitor Booster
+Ammatar Navy Medium Capacitor Booster
+Ammatar Navy Heavy Capacitor Booster
+Imperial Navy Small Capacitor Booster
+Imperial Navy Micro Capacitor Booster
+Imperial Navy Medium Capacitor Booster
+Imperial Navy Heavy Capacitor Booster
+Ammatar Navy Cap Recharger
+Caldari Navy Cloaking Device
+Federation Navy Tracking Computer
+Ammatar Navy Small Energy Neutralizer
+Ammatar Navy Medium Energy Neutralizer
+Ammatar Navy Heavy Energy Neutralizer
+Imperial Navy Small Energy Neutralizer
+Imperial Navy Medium Energy Neutralizer
+Imperial Navy Heavy Energy Neutralizer
+Republic Fleet Gyrostabilizer
+Ammatar Navy Heat Sink
+Imperial Navy Heat Sink
+Republic Fleet Overdrive Injector
+Republic Fleet Nanofiber Structure
+Ammatar Navy Small Nosferatu
+Ammatar Navy Medium Nosferatu
+Ammatar Navy Heavy Nosferatu
+Imperial Navy Small Nosferatu
+Imperial Navy Medium Nosferatu
+Imperial Navy Heavy Nosferatu
+Caldari Navy Warp Scrambler
+Caldari Navy Warp Disruptor
+Republic Fleet Warp Disruptor
+Republic Fleet Warp Scrambler
+Federation Navy Magnetic Field Stabilizer
+Caldari Navy Extra Large Shield Booster
+Caldari Navy Small Shield Booster
+Caldari Navy Medium Shield Booster
+Caldari Navy Large Shield Booster
+Republic Fleet Extra Large Shield Booster
+Republic Fleet Small Shield Booster
+Republic Fleet Medium Shield Booster
+Republic Fleet Large Shield Booster
+Caldari Navy Shield Boost Amplifier
+Republic Fleet Shield Boost Amplifier
+Caldari Navy EM Ward Amplifier
+Caldari Navy Kinetic Deflection Amplifier
+Caldari Navy Thermic Dissipation Amplifier
+Caldari Navy Explosive Deflection Amplifier
+Republic Fleet EM Ward Amplifier
+Republic Fleet Kinetic Deflection Amplifier
+Republic Fleet Thermic Dissipation Amplifier
+Republic Fleet Explosive Deflection Amplifier
+Caldari Navy Small Graviton Smartbomb
+Caldari Navy Micro Graviton Smartbomb
+Caldari Navy Medium Graviton Smartbomb
+Caldari Navy Large Graviton Smartbomb
+Republic Fleet Micro Proton Smartbomb
+Republic Fleet Small Proton Smartbomb
+Republic Fleet Medium Proton Smartbomb
+Republic Fleet Large Proton Smartbomb
+Ammatar Navy Small EMP Smartbomb
+Ammatar Navy Micro EMP Smartbomb
+Ammatar Navy Medium EMP Smartbomb
+Ammatar Navy Large EMP Smartbomb
+Federation Navy Small Plasma Smartbomb
+Federation Navy Micro Plasma Smartbomb
+Federation Navy Medium Plasma Smartbomb
+Federation Navy Large Plasma Smartbomb
+Imperial Navy Small EMP Smartbomb
+Imperial Navy Micro EMP Smartbomb
+Imperial Navy Medium EMP Smartbomb
+Imperial Navy Large EMP Smartbomb
+Republic Fleet Tracking Enhancer
+Federation Navy Remote Tracking Computer
+Caldari Navy Rapid Light Missile Launcher
+Caldari Navy Cruise Missile Launcher
+Caldari Navy Heavy Missile Launcher
+Caldari Navy Rocket Launcher
+Caldari Navy Torpedo Launcher
+Caldari Navy Light Missile Launcher
+Remote Armor Repair Systems
+CONCORD Modified Cloaking Device
+CONCORD Modified Warp Scrambler
+Caldari Control Tower
+Minmatar Control Tower
+Research Laboratory
+Rapid Equipment Assembly Array
+Moon Harvesting Array
+Ferox
+Brutix
+Cyclone
+Prophecy
+Coercer
+Cormorant
+Catalyst
+Thrasher
+Clear Icicle
+Glacial Mass
+Blue Ice
+White Glaze
+Glare Crust
+Dark Glitter
+Gelidus
+Krystallos
+Heavy Water
+Liquid Ozone
+Helium Isotopes
+Strontium Clathrates
+Ice Harvester 1
+Ice Harvesting
+Accord Core Compensation
+Repose Core Compensation
+Stoic Core Equalizer 1
+Halcyon Core Equalizer 1
+Upgraded Adaptive Nano Plating 1
+Limited Adaptive Nano Plating 1
+Collateral Adaptive Nano Plating 1
+Refuge Adaptive Nano Plating 1
+Upgraded Kinetic Plating 1
+Limited Kinetic Plating 1
+Experimental Kinetic Plating 1
+Aegis Explosive Plating 1
+Upgraded Explosive Plating 1
+Limited Explosive Plating 1
+Experimental Explosive Plating 1
+Element Kinetic Plating 1
+Upgraded EM Plating 1
+Limited EM Plating 1
+Contour EM Plating 1
+Spiegel EM Plating 1
+Upgraded Thermic Plating 1
+Limited Thermic Plating 1
+Experimental Thermic Plating 1
+Prototype Thermic Plating 1
+Upgraded Layered Plating 1
+Limited Layered Plating 1
+Scarab Layered Plating 1
+Grail Layered Plating 1
+Upgraded Armor EM Hardener 1
+Limited Armor EM Hardener 1
+Experimental Armor EM Hardener 1
+Prototype Armor EM Hardener 1
+Upgraded Armor Explosive Hardener 1
+Limited Armor Explosive Hardener 1
+Experimental Armor Explosive Hardener 1
+Prototype Armor Explosive Hardener 1
+Upgraded Armor Kinetic Hardener 1
+Limited Armor Kinetic Hardener 1
+Experimental Armor Kinetic Hardener 1
+Prototype Armor Kinetic Hardener 1
+Upgraded Armor Thermic Hardener 1
+Limited Armor Thermic Hardener 1
+Experimental Armor Thermic Hardener 1
+Prototype Armor Thermic Hardener 1
+Upgraded Energized Adaptive Nano Membrane 1
+Limited Energized Adaptive Nano Membrane 1
+Experimental Energized Adaptive Nano Membrane 1
+Prototype Energized Adaptive Nano Membrane 1
+Upgraded Energized Kinetic Membrane 1
+Limited Energized Kinetic Membrane 1
+Experimental Energized Kinetic Membrane 1
+Prototype Energized Kinetic Membrane 1
+Upgraded Energized Explosive Membrane 1
+Limited Energized Explosive Membrane 1
+Experimental Energized Explosive Membrane 1
+Prototype Energized Explosive Membrane 1
+Upgraded Energized EM Membrane 1
+Limited Energized EM Membrane 1
+Experimental Energized EM Membrane 1
+Prototype Energized EM Membrane 1
+Upgraded Energized Armor Layering Membrane 1
+Limited Energized Armor Layering Membrane 1
+Experimental Energized Armor Layering Membrane 1
+Prototype Energized Armor Layering Membrane 1
+Upgraded Energized Thermic Membrane 1
+Limited Energized Thermic Membrane 1
+Experimental Energized Thermic Membrane 1
+Prototype Energized Thermic Membrane 1
+Small 1 ax Remote Armor Repairer
+Small Coaxial Remote Armor Repairer
+Small Arup Remote Armor Repairer
+Small Solace Remote Armor Repairer
+Medium 1 ax Remote Armor Repairer
+Medium Coaxial Remote Armor Repairer
+Medium Arup Remote Armor Repairer
+Medium Solace Remote Armor Repairer
+Large 1 ax Remote Armor Repairer
+Large Coaxial Remote Armor Repairer
+Large Arup Remote Armor Repairer
+Large Solace Remote Armor Repairer
+Cross linked Bolt Array 1
+Muon Coil Bolt Array 1
+Multiphasic Bolt Array 1
+Pandemonium Ballistic Enhancement
+Medium Rudimentary Energy Destabilizer 1
+Medium Gremlin Power Core Disruptor 1
+50 Watt Infectious Power System Malfunction
+Medium Unstable Power Fluctuator 1
+Heavy Rudimentary Energy Destabilizer 1
+Heavy Gremlin Power Core Disruptor 1
+500 Watt Infectious Power System Malfunction
+Heavy Unstable Power Fluctuator 1
+Large Asymmetric Remote Capacitor Transmitter
+Large Murky Remote Capacitor Transmitter
+Large Partial E95c Remote Capacitor Transmitter
+Large Regard Remote Capacitor Transmitter
+Medium Asymmetric Remote Capacitor Transmitter
+Medium Murky Remote Capacitor Transmitter
+Medium Partial E95b Remote Capacitor Transmitter
+Medium Regard Remote Capacitor Transmitter
+Heavy Ghoul Energy Siphon 1
+Heavy Knave Energy Drain
+E500 Prototype Energy Vampire
+Heavy Diminishing Power System Drain 1
+Medium Ghoul Energy Siphon 1
+Medium Knave Energy Drain
+E50 Prototype Energy Vampire
+Medium Diminishing Power System Drain 1
+Malkuth Cruise Launcher 1
+Limos Cruise Launcher 1
+XT 9000 Cruise Launcher
+Arbalest Cruise Launcher 1
+Malkuth Rocket Launcher 1
+Limos Rocket Launcher 1
+OE 5200 Rocket Launcher
+Arbalest Rocket Launcher 1
+Ionic Field Accelerator 1
+5a Prototype Shield Support 1
+Stalwart Particle Field Magnifier
+Copasetic Particle Field Acceleration
+Compact Micro Auxiliary Power Core
+Heavy Assault Cruisers
+Procurement
+Daytrading
+Wholesale
+Margin Trading
+Marketing
+Brokara's Modified Cap Recharger
+Selynne's Modified Cap Recharger
+Vizan's Modified Cap Recharger
+Chelm's Modified Cap Recharger
+Accounting
+Small Artillery Battery
+Hydrocarbons
+Atmospheric Gases
+Evaporite Deposits
+Silicates
+Tungsten
+Titanium
+Scandium
+Cobalt
+Chromium
+Vanadium
+Cadmium
+Platinum
+Mercury
+Caesium
+Hafnium
+Technetium
+Dysprosium
+Neodymium
+Promethium
+Thulium
+Titanium Chromide
+Crystallite Alloy
+Fernite Alloy
+Rolled Tungsten Alloy
+Silicon Diborite
+Carbon Polymers
+Ceramic Powder
+Sulfuric Acid
+Platinum Technite
+Caesarium Cadmide
+Solerium
+Hexite
+Hyperflurite
+Neo Mercurite
+Dysporite
+Ferrofluid
+Crystalline Carbonide
+Titanium Carbide
+Tungsten Carbide
+Fernite Carbide
+Sylramic Fibers
+Fullerides
+Phenolic Composites
+Nanotransistors
+Hypersynaptic Fibers
+Ferrogel
+Medium Artillery Battery
+Large Artillery Battery
+Small Railgun Battery
+Medium Railgun Battery
+Large Railgun Battery
+Large Beam Laser Battery
+Cruise Missile Battery
+Torpedo Battery
+Complex Reactor Array
+Ukomi Superconductors
+Small Beam Laser Battery
+Medium Beam Laser Battery
+Ion Field Projection Battery
+Phase Inversion Battery
+Spatial Destabilization Battery
+White Noise Generation Battery
+Stasis Webification Battery
+Sensor Dampening Battery
+Warp Disruption Battery
+Warp Scrambling Battery
+Ballistic Deflection Array
+Explosion Dampening Array
+Heat Dissipation Array
+Photon Scattering Array
+Fermionic Condensates
+Small Audit Log Secure Container
+Medium Audit Log Secure Container
+Large Audit Log Secure Container
+Station Container
+Station Vault Container
+Station Warehouse Container
+Data Chips
+Large Blaster Battery
+Medium Blaster Battery
+Small Blaster Battery
+Large Pulse Laser Battery
+Medium Pulse Laser Battery
+Small Pulse Laser Battery
+Covetor
+Retriever
+Procurer
+Strip Miner 1
+Republic Fleet Rapid Light Missile Launcher
+Republic Fleet Cruise Missile Launcher
+Republic Fleet Heavy Missile Launcher
+Republic Fleet Rocket Launcher
+Republic Fleet Torpedo Launcher
+Republic Fleet Light Missile Launcher
+Republic Fleet Large Armor Repairer
+Republic Fleet Medium Armor Repairer
+Republic Fleet Small Armor Repairer
+Caldari Navy Kinetic Deflection Field
+Caldari Navy Explosive Deflection Field
+Caldari Navy Thermic Dissipation Field
+Caldari Navy Adaptive Invulnerability Field
+Caldari Navy EM Ward Field
+Caldari Navy Stasis Webifier
+Ammatar Navy Armor EM Hardener
+Ammatar Navy Armor Explosive Hardener
+Ammatar Navy Armor Kinetic Hardener
+Ammatar Navy Armor Thermic Hardener
+Ammatar Navy Capacitor Power Relay
+Ammatar Navy Kinetic Plating
+Ammatar Navy Adaptive Nano Plating
+Ammatar Navy Explosive Plating
+Ammatar Navy EM Plating
+Federation Navy Sensor Booster
+Ammatar Navy Reactor Control Unit
+Ammatar Navy Power Diagnostic System
+Imperial Navy Cap Recharger
+Imperial Navy Capacitor Power Relay
+Ammatar Navy Energized Adaptive Nano Membrane
+Ammatar Navy Energized Kinetic Membrane
+Ammatar Navy Energized Explosive Membrane
+Ammatar Navy Energized EM Membrane
+Ammatar Navy Energized Thermic Membrane
+Imperial Navy Large Armor Repairer
+Imperial Navy Medium Armor Repairer
+Imperial Navy Small Armor Repairer
+Federation Navy Adaptive Nano Plating
+Federation Navy Kinetic Plating
+Federation Navy Explosive Plating
+Federation Navy EM Plating
+Federation Navy Thermic Plating
+Federation Navy Stasis Webifier
+Caldari Navy Hookbill
+Corporate Hangar Array
+Caracal Navy Issue
+Raven Navy Issue
+Antimatter Charge Extra Large
+Iridium Charge Extra Large
+Iron Charge Extra Large
+Lead Charge Extra Large
+Plutonium Charge Extra Large
+Thorium Charge Extra Large
+Tungsten Charge Extra Large
+Uranium Charge Extra Large
+Carbonized Lead Extra Large
+Depleted Uranium Extra Large
+EMP Extra Large
+Fusion Extra Large
+Nuclear Extra Large
+Phased Plasma Extra Large
+Proton Extra Large
+Titanium Sabot Extra Large
+Gamma Extra Large
+Infrared Extra Large
+Microwave Extra Large
+Multifrequency Extra Large
+Radio Extra Large
+Standard Extra Large
+Ultraviolet Extra Large
+Xray Extra Large
+Imperial Navy Slicer
+Omen Navy Issue
+Stabber Fleet Issue
+Gila
+Phantasm
+Cynabal
+Vigilant
+Apocalypse Navy Issue
+Megathron Navy Issue
+Tempest Fleet Issue
+Nightmare
+Machariel
+Vindicator
+Fluxed Condensates
+Large AutoCannon Battery
+Medium AutoCannon Battery
+Small AutoCannon Battery
+Citadel Torpedo Battery
+Republic Fleet Firetail
+Federation Navy Armor EM Hardener
+Federation Navy Armor Explosive Hardener
+Federation Navy Armor Kinetic Hardener
+Federation Navy Armor Thermic Hardener
+Federation Navy Comet
+Vexor Navy Issue
+Mjolnir Citadel Torpedo
+Scourge Citadel Torpedo
+Inferno Citadel Torpedo
+Nova Citadel Torpedo
+Oxygen Isotopes
+Nitrogen Isotopes
+Hydrogen Isotopes
+High Tech Transmitters
+Modulated Strip Miner 2
+Rattlesnake
+Bhaalgorn
+Ashimmu
+Succubus
+Cruor
+Daredevil
+Worm
+Dramiel
+Core Probe Launcher 1
+Mining Barge
+Vanadium Hafnite
+Prometium
+Thick Blue Ice
+Pristine White Glaze
+Smooth Glacial Mass
+Enriched Clear Icicle
+Coupling Array
+Ice Processing
+Arkonor Mining Crystal 1
+Bistot Mining Crystal 1
+Crokite Mining Crystal 1
+Dark Ochre Mining Crystal 1
+Gneiss Mining Crystal 1
+Hedbergite Mining Crystal 1
+Hemorphite Mining Crystal 1
+Jaspet Mining Crystal 1
+Kernite Mining Crystal 1
+Mercoxit Mining Crystal 1
+Omber Mining Crystal 1
+Plagioclase Mining Crystal 1
+Pyroxeres Mining Crystal 1
+Scordite Mining Crystal 1
+Spodumain Mining Crystal 1
+Veldspar Mining Crystal 1
+Modulated Deep Core Miner 2
+Tycoon
+Arkonor Mining Crystal 2
+Bistot Mining Crystal 2
+Crokite Mining Crystal 2
+Dark Ochre Mining Crystal 2
+Gneiss Mining Crystal 2
+Hedbergite Mining Crystal 2
+Hemorphite Mining Crystal 2
+Jaspet Mining Crystal 2
+Kernite Mining Crystal 2
+Mercoxit Mining Crystal 2
+Omber Mining Crystal 2
+Plagioclase Mining Crystal 2
+Pyroxeres Mining Crystal 2
+Scordite Mining Crystal 2
+Veldspar Mining Crystal 2
+Spodumain Mining Crystal 2
+Quest Survey Probe 1
+Discovery Survey Probe 1
+Gaze Survey Probe 1
+Expanded Probe Launcher 1
+Gistii C Type 1 Mega Newton Afterburner
+Gistum C Type 10 Mega Newton Afterburner
+Gist C Type 100 Mega Newton Afterburner
+Gistii B Type 1 Mega Newton Afterburner
+Gistum B Type 10 Mega Newton Afterburner
+Gist B Type 100 Mega Newton Afterburner
+Gistii A Type 1 Mega Newton Afterburner
+Gistum A Type 10 Mega Newton Afterburner
+Gist A Type 100 Mega Newton Afterburner
+Gist X Type 100 Mega Newton Afterburner
+Coreli C Type 1 Mega Newton Afterburner
+Corelum C Type 10 Mega Newton Afterburner
+Core C Type 100 Mega Newton Afterburner
+Coreli B Type 1 Mega Newton Afterburner
+Corelum B Type 10 Mega Newton Afterburner
+Core B Type 100 Mega Newton Afterburner
+Coreli A Type 1 Mega Newton Afterburner
+Corelum A Type 10 Mega Newton Afterburner
+Core A Type 100 Mega Newton Afterburner
+Core X Type 100 Mega Newton Afterburner
+Corpii C Type Adaptive Nano Plating
+Centii C Type Adaptive Nano Plating
+Corpii B Type Adaptive Nano Plating
+Centii B Type Adaptive Nano Plating
+Corpii A Type Adaptive Nano Plating
+Centii A Type Adaptive Nano Plating
+Corpii C Type Kinetic Plating
+Centii C Type Kinetic Plating
+Corpii C Type Explosive Plating
+Centii C Type Explosive Plating
+Corpii C Type EM Plating
+Centii C Type EM Plating
+Corpii C Type Thermic Plating
+Centii C Type Thermic Plating
+Corpii B Type Thermic Plating
+Centii B Type Thermic Plating
+Corpii B Type Kinetic Plating
+Centii B Type Kinetic Plating
+Corpii B Type Explosive Plating
+Centii B Type Explosive Plating
+Corpii B Type EM Plating
+Centii B Type EM Plating
+Corpii A Type Kinetic Plating
+Centii A Type Kinetic Plating
+Corpii A Type Explosive Plating
+Centii A Type Explosive Plating
+Corpii A Type EM Plating
+Centii A Type EM Plating
+Corpii A Type Thermic Plating
+Centii A Type Thermic Plating
+Coreli C Type Adaptive Nano Plating
+Coreli C Type Kinetic Plating
+Coreli C Type Explosive Plating
+Coreli C Type EM Plating
+Coreli C Type Thermic Plating
+Coreli B Type Adaptive Nano Plating
+Coreli B Type Kinetic Plating
+Coreli B Type Explosive Plating
+Coreli B Type EM Plating
+Coreli B Type Thermic Plating
+Coreli A Type Adaptive Nano Plating
+Coreli A Type Kinetic Plating
+Coreli A Type Explosive Plating
+Coreli A Type EM Plating
+Coreli A Type Thermic Plating
+Corelum C Type Energized Adaptive Nano Membrane
+Corelum C Type Energized Kinetic Membrane
+Corelum C Type Energized Explosive Membrane
+Corelum C Type Energized EM Membrane
+Corelum C Type Energized Thermic Membrane
+Corelum B Type Energized Adaptive Nano Membrane
+Corelum B Type Energized Kinetic Membrane
+Corelum B Type Energized Explosive Membrane
+Corelum B Type Energized EM Membrane
+Corelum B Type Energized Thermic Membrane
+Corelum A Type Energized Adaptive Nano Membrane
+Corelum A Type Energized Kinetic Membrane
+Corelum A Type Energized Explosive Membrane
+Corelum A Type Energized EM Membrane
+Corelum A Type Energized Thermic Membrane
+Corpum C Type Energized Adaptive Nano Membrane
+Centum C Type Energized Adaptive Nano Membrane
+Corpum C Type Energized Kinetic Membrane
+Centum C Type Energized Kinetic Membrane
+Corpum C Type Energized Explosive Membrane
+Centum C Type Energized Explosive Membrane
+Corpum C Type Energized EM Membrane
+Centum C Type Energized EM Membrane
+Corpum C Type Energized Thermic Membrane
+Centum C Type Energized Thermic Membrane
+Corpum B Type Energized Adaptive Nano Membrane
+Centum B Type Energized Adaptive Nano Membrane
+Corpum B Type Energized Kinetic Membrane
+Centum B Type Energized Kinetic Membrane
+Corpum B Type Energized Explosive Membrane
+Centum B Type Energized Explosive Membrane
+Corpum B Type Energized Thermic Membrane
+Centum B Type Energized Thermic Membrane
+Corpum A Type Energized Thermic Membrane
+Centum A Type Energized Thermic Membrane
+Corpum A Type Energized EM Membrane
+Centum A Type Energized EM Membrane
+Corpum A Type Energized Explosive Membrane
+Centum A Type Energized Explosive Membrane
+Corpum A Type Energized Kinetic Membrane
+Centum A Type Energized Kinetic Membrane
+Corpum A Type Energized Adaptive Nano Membrane
+Centum A Type Energized Adaptive Nano Membrane
+Corpus C Type Armor EM Hardener
+Centus C Type Armor EM Hardener
+Corpus C Type Armor Explosive Hardener
+Centus C Type Armor Explosive Hardener
+Corpus C Type Armor Kinetic Hardener
+Centus C Type Armor Kinetic Hardener
+Corpus C Type Armor Thermic Hardener
+Centus C Type Armor Thermic Hardener
+Corpus B Type Armor EM Hardener
+Centus B Type Armor EM Hardener
+Corpus B Type Armor Explosive Hardener
+Centus B Type Armor Explosive Hardener
+Corpus B Type Armor Kinetic Hardener
+Centus B Type Armor Kinetic Hardener
+Corpus B Type Armor Thermic Hardener
+Centus B Type Armor Thermic Hardener
+Corpus A Type Armor Thermic Hardener
+Centus A Type Armor Thermic Hardener
+Corpus A Type Armor Kinetic Hardener
+Centus A Type Armor Kinetic Hardener
+Corpus A Type Armor Explosive Hardener
+Centus A Type Armor Explosive Hardener
+Corpus A Type Armor EM Hardener
+Centus A Type Armor EM Hardener
+Corpus X Type Armor EM Hardener
+Centus X Type Armor EM Hardener
+Corpus X Type Armor Explosive Hardener
+Centus X Type Armor Explosive Hardener
+Corpus X Type Armor Kinetic Hardener
+Centus X Type Armor Kinetic Hardener
+Corpus X Type Armor Thermic Hardener
+Centus X Type Armor Thermic Hardener
+Core C Type Armor EM Hardener
+Core C Type Armor Explosive Hardener
+Core C Type Armor Kinetic Hardener
+Core C Type Armor Thermic Hardener
+Core B Type Armor EM Hardener
+Core B Type Armor Explosive Hardener
+Core B Type Armor Kinetic Hardener
+Core B Type Armor Thermic Hardener
+Core A Type Armor EM Hardener
+Core A Type Armor Explosive Hardener
+Core A Type Armor Kinetic Hardener
+Core A Type Armor Thermic Hardener
+Core X Type Armor EM Hardener
+Core X Type Armor Explosive Hardener
+Core X Type Armor Kinetic Hardener
+Core X Type Armor Thermic Hardener
+Coreli C Type Small Remote Armor Repairer
+Coreli B Type Small Remote Armor Repairer
+Coreli A Type Small Remote Armor Repairer
+Corelum C Type Medium Remote Armor Repairer
+Corelum B Type Medium Remote Armor Repairer
+Corelum A Type Medium Remote Armor Repairer
+Corpii C Type Small Armor Repairer
+Corpii B Type Small Armor Repairer
+Corpii A Type Small Armor Repairer
+Centii C Type Small Armor Repairer
+Centii B Type Small Armor Repairer
+Centii A Type Small Armor Repairer
+Coreli C Type Small Armor Repairer
+Coreli B Type Small Armor Repairer
+Coreli A Type Small Armor Repairer
+Corpum C Type Medium Armor Repairer
+Corpum B Type Medium Armor Repairer
+Corpum A Type Medium Armor Repairer
+Centum C Type Medium Armor Repairer
+Centum B Type Medium Armor Repairer
+Centum A Type Medium Armor Repairer
+Corelum C Type Medium Armor Repairer
+Corelum B Type Medium Armor Repairer
+Corelum A Type Medium Armor Repairer
+Core C Type Large Armor Repairer
+Core B Type Large Armor Repairer
+Core A Type Large Armor Repairer
+Core X Type Large Armor Repairer
+Corpus C Type Large Armor Repairer
+Centus C Type Large Armor Repairer
+Corpus B Type Large Armor Repairer
+Centus B Type Large Armor Repairer
+Corpus A Type Large Armor Repairer
+Centus A Type Large Armor Repairer
+Corpus X Type Large Armor Repairer
+Centus X Type Large Armor Repairer
+Centii C Type Small Remote Armor Repairer
+Centii B Type Small Remote Armor Repairer
+Centii A Type Small Remote Armor Repairer
+Centum C Type Medium Remote Armor Repairer
+Centum B Type Medium Remote Armor Repairer
+Centum A Type Medium Remote Armor Repairer
+Corpii C Type Small Remote Capacitor Transmitter
+Corpii B Type Small Remote Capacitor Transmitter
+Corpii A Type Small Remote Capacitor Transmitter
+Centii C Type Small Remote Capacitor Transmitter
+Centii B Type Small Remote Capacitor Transmitter
+Centii A Type Small Remote Capacitor Transmitter
+Corpum C Type Medium Remote Capacitor Transmitter
+Corpum B Type Medium Remote Capacitor Transmitter
+Corpum A Type Medium Remote Capacitor Transmitter
+Centum C Type Medium Remote Capacitor Transmitter
+Centum B Type Medium Remote Capacitor Transmitter
+Centum A Type Medium Remote Capacitor Transmitter
+Corpii C Type Small Nosferatu
+Corpii B Type Small Nosferatu
+Corpii A Type Small Nosferatu
+Corpum C Type Medium Nosferatu
+Corpum B Type Medium Nosferatu
+Corpum A Type Medium Nosferatu
+Corpus C Type Heavy Nosferatu
+Corpus B Type Heavy Nosferatu
+Corpus A Type Heavy Nosferatu
+Corpus X Type Heavy Nosferatu
+Gistii C Type Small Remote Shield Booster
+Gistii B Type Small Remote Shield Booster
+Gistii A Type Small Remote Shield Booster
+Pithi C Type Small Remote Shield Booster
+Pithi B Type Small Remote Shield Booster
+Pithi A Type Small Remote Shield Booster
+Gistum C Type Medium Remote Shield Booster
+Gistum B Type Medium Remote Shield Booster
+Gistum A Type Medium Remote Shield Booster
+Pithum C Type Medium Remote Shield Booster
+Pithum B Type Medium Remote Shield Booster
+Pithum A Type Medium Remote Shield Booster
+Gistii C Type Small Shield Booster
+Gistii B Type Small Shield Booster
+Gistii A Type Small Shield Booster
+Pithi C Type Small Shield Booster
+Pithi B Type Small Shield Booster
+Pithi A Type Small Shield Booster
+Gistum C Type Medium Shield Booster
+Gistum B Type Medium Shield Booster
+Gistum A Type Medium Shield Booster
+Pithum C Type Medium Shield Booster
+Pithum B Type Medium Shield Booster
+Pithum A Type Medium Shield Booster
+Gist C Type Large Shield Booster
+Gist B Type Large Shield Booster
+Gist C Type Extra Large Shield Booster
+Gist B Type Extra Large Shield Booster
+Gist A Type Extra Large Shield Booster
+Gist X Type Extra Large Shield Booster
+Gist A Type Large Shield Booster
+Gist X Type Large Shield Booster
+Pith C Type Large Shield Booster
+Pith C Type Extra Large Shield Booster
+Pith B Type Large Shield Booster
+Pith B Type Extra Large Shield Booster
+Pith A Type Large Shield Booster
+Pith A Type Extra Large Shield Booster
+Pith X Type Large Shield Booster
+Pith X Type Extra Large Shield Booster
+Pithum C Type Explosive Deflection Amplifier
+Pithum C Type Thermic Dissipation Amplifier
+Pithum C Type Kinetic Deflection Amplifier
+Pithum C Type EM Ward Amplifier
+Pithum B Type Explosive Deflection Amplifier
+Pithum B Type Thermic Dissipation Amplifier
+Pithum B Type Kinetic Deflection Amplifier
+Pithum B Type EM Ward Amplifier
+Pithum A Type Explosive Deflection Amplifier
+Pithum A Type Thermic Dissipation Amplifier
+Pithum A Type Kinetic Deflection Amplifier
+Pithum A Type EM Ward Amplifier
+Gistum C Type Explosive Deflection Amplifier
+Gistum B Type Explosive Deflection Amplifier
+Gistum C Type Thermic Dissipation Amplifier
+Gistum B Type Thermic Dissipation Amplifier
+Gistum C Type Kinetic Deflection Amplifier
+Gistum B Type Kinetic Deflection Amplifier
+Gistum C Type EM Ward Amplifier
+Gistum B Type EM Ward Amplifier
+Gistum A Type Explosive Deflection Amplifier
+Gistum A Type Thermic Dissipation Amplifier
+Gistum A Type Kinetic Deflection Amplifier
+Gistum A Type EM Ward Amplifier
+Gist C Type Kinetic Deflection Field
+Pith C Type Kinetic Deflection Field
+Gist C Type Explosive Deflection Field
+Pith C Type Explosive Deflection Field
+Gist C Type Thermic Dissipation Field
+Pith C Type Thermic Dissipation Field
+Gist C Type EM Ward Field
+Pith C Type EM Ward Field
+Gist B Type EM Ward Field
+Pith B Type EM Ward Field
+Gist B Type Thermic Dissipation Field
+Pith B Type Thermic Dissipation Field
+Gist B Type Explosive Deflection Field
+Pith B Type Explosive Deflection Field
+Gist B Type Kinetic Deflection Field
+Pith B Type Kinetic Deflection Field
+Gist A Type Kinetic Deflection Field
+Pith A Type Kinetic Deflection Field
+Gist A Type Explosive Deflection Field
+Pith A Type Explosive Deflection Field
+Gist A Type Thermic Dissipation Field
+Pith A Type Thermic Dissipation Field
+Gist A Type EM Ward Field
+Pith A Type EM Ward Field
+Gist X Type EM Ward Field
+Pith X Type EM Ward Field
+Gist X Type Thermic Dissipation Field
+Pith X Type Thermic Dissipation Field
+Gist X Type Explosive Deflection Field
+Pith X Type Explosive Deflection Field
+Gist X Type Kinetic Deflection Field
+Pith X Type Kinetic Deflection Field
+Pith C Type Shield Boost Amplifier
+Gist A Type Shield Boost Amplifier
+Pith X Type Shield Boost Amplifier
+Gist C Type Shield Boost Amplifier
+Gist B Type Shield Boost Amplifier
+Gist X Type Shield Boost Amplifier
+Pith B Type Shield Boost Amplifier
+Pith A Type Shield Boost Amplifier
+Coreli C Type 1 Mega Newton Microwarpdrive
+Corelum C Type 10 Mega Newton Microwarpdrive
+Core C Type 100 Mega Newton Microwarpdrive
+Coreli B Type 1 Mega Newton Microwarpdrive
+Corelum B Type 10 Mega Newton Microwarpdrive
+Core B Type 100 Mega Newton Microwarpdrive
+Coreli A Type 1 Mega Newton Microwarpdrive
+Corelum A Type 10 Mega Newton Microwarpdrive
+Core A Type 100 Mega Newton Microwarpdrive
+Core X Type 100 Mega Newton Microwarpdrive
+Gistii C Type 1 Mega Newton Microwarpdrive
+Gistum C Type 10 Mega Newton Microwarpdrive
+Gist C Type 100 Mega Newton Microwarpdrive
+Gistii B Type 1 Mega Newton Microwarpdrive
+Gistum B Type 10 Mega Newton Microwarpdrive
+Gist B Type 100 Mega Newton Microwarpdrive
+Gistii A Type 1 Mega Newton Microwarpdrive
+Gistum A Type 10 Mega Newton Microwarpdrive
+Gist A Type 100 Mega Newton Microwarpdrive
+Gist X Type 100 Mega Newton Microwarpdrive
+Corpum B Type Energized EM Membrane
+Centum B Type Energized EM Membrane
+Intensive Reprocessing Array
+High grade Talisman Alpha
+High grade Talisman Beta
+High grade Talisman Gamma
+High grade Talisman Delta
+High grade Talisman Epsilon
+High grade Snake Alpha
+High grade Snake Beta
+High grade Snake Gamma
+High grade Snake Delta
+High grade Snake Epsilon
+Transport Ships
+Revelation
+Naglfar
+Moros
+Phoenix
+Cruise Missile Launcher 2
+Sigil
+Caldari Research Outpost Platform
+Long Distance Jamming
+Frequency Modulation
+Signal Dispersion
+Signal Suppression
+Turret Destabilization
+Target Painter 2
+Partial Weapon Navigation
+Peripheral Weapon Navigation Diameter
+Parallel Weapon Navigation Transmitter
+Phased Weapon Navigation Array Generation Extron
+Target Painting
+Signature Focusing
+Induced Ion Field ECM 1
+Compulsive Ion Field ECM 1
+Hypnos Ion Field ECM 1
+Induced Multispectral ECM 1
+Compulsive Multispectral ECM 1
+Hypnos Multispectral ECM 1
+Languid Phase Inversion ECM 1
+Halting Phase Inversion ECM 1
+Enfeebling Phase Inversion ECM 1
+FZ3a Disruptive Spatial Destabilizer ECM
+CZ4 Concussive Spatial Destabilizer ECM
+BZ5 Neutralizing Spatial Destabilizer ECM
+Gloom White Noise ECM
+Shade White Noise ECM
+Umbra White Noise ECM
+Shadow Iron Charge Small
+Shadow Tungsten Charge Small
+Shadow Iridium Charge Small
+Shadow Lead Charge Small
+Arch Angel Carbonized Lead Small
+Arch Angel Nuclear Small
+Arch Angel Proton Small
+Arch Angel Depleted Uranium Small
+Sanshas Radio Small
+Sanshas Microwave Small
+Sanshas Infrared Small
+Sanshas Standard Small
+Arch Angel Titanium Sabot Small
+Arch Angel Fusion Small
+Arch Angel Phased Plasma Small
+Arch Angel EMP Small
+Arch Angel Carbonized Lead Medium
+Arch Angel Nuclear Medium
+Arch Angel Proton Medium
+Arch Angel Depleted Uranium Medium
+Arch Angel Titanium Sabot Medium
+Arch Angel Fusion Medium
+Arch Angel Phased Plasma Medium
+Arch Angel EMP Medium
+Sanshas Radio Medium
+Sanshas Microwave Medium
+Sanshas Infrared Medium
+Sanshas Standard Medium
+Sanshas Radio Large
+Sanshas Microwave Large
+Sanshas Infrared Large
+Sanshas Standard Large
+Sanshas Radio Extra Large
+Sanshas Microwave Extra Large
+Sanshas Infrared Extra Large
+Sanshas Standard Extra Large
+Shadow Thorium Charge Small
+Shadow Uranium Charge Small
+Shadow Plutonium Charge Small
+Shadow Antimatter Charge Small
+Shadow Iron Charge Medium
+Shadow Tungsten Charge Medium
+Shadow Iridium Charge Medium
+Shadow Lead Charge Medium
+Shadow Thorium Charge Medium
+Shadow Uranium Charge Medium
+Shadow Plutonium Charge Medium
+Shadow Antimatter Charge Medium
+Amarr Control Tower Medium
+Amarr Control Tower Small
+Caldari Control Tower Medium
+Caldari Control Tower Small
+Gallente Control Tower Medium
+Gallente Control Tower Small
+Minmatar Control Tower Medium
+Minmatar Control Tower Small
+Armored Warfare Link Damage Control 1
+Skirmish Warfare Link Evasive Maneuvers 1
+Sleeper Foundation Block
+Datacore Propulsion Subsystems Engineering
+Datacore Engineering Subsystems Engineering
+Datacore Electronic Subsystems Engineering
+High grade Crystal Alpha
+Siege Warfare Link Active Shielding 1
+Heavy Assault Missile Launcher 1
+High grade Crystal Beta
+High grade Crystal Gamma
+High grade Crystal Delta
+High grade Crystal Epsilon
+Datacore Hydromagnetic Physics
+Datacore Minmatar Starship Engineering
+Simple Reactor Array
+Providence
+Charon
+Obelisk
+Fenrir
+Dread Guristas ECM Multispectral Jammer
+Kaikka's Modified ECM Multispectral Jammer
+Thon's Modified ECM Multispectral Jammer
+Vepas' Modified ECM Multispectral Jammer
+Estamel's Modified ECM Multispectral Jammer
+Rocket Specialization
+Light Missile Specialization
+Heavy Missile Specialization
+Cruise Missile Specialization
+Torpedo Specialization
+Extra Radar ECCM Scanning Array 1
+Incremental Radar ECCM Scanning Array 1
+Conjunctive Radar ECCM Scanning Array 1
+Extra Ladar ECCM Scanning Array 1
+Incremental Ladar ECCM Scanning Array 1
+Conjunctive Ladar ECCM Scanning Array 1
+Extra Gravimetric ECCM Scanning Array 1
+Incremental Gravimetric ECCM Scanning Array 1
+Conjunctive Gravimetric ECCM Scanning Array 1
+Extra Magnetometric ECCM Scanning Array 1
+Incremental Magnetometric ECCM Scanning Array 1
+Conjunctive Magnetometric ECCM Scanning Array 1
+Secure Gravimetric Backup Cluster 1
+Shielded Gravimetric Backup Cluster 1
+Warded Gravimetric Backup Cluster 1
+Secure Ladar Backup Cluster 1
+Shielded Ladar Backup Cluster 1
+Warded Ladar Backup Cluster 1
+Secure Magnetometric Backup Cluster 1
+Shielded Magnetometric Backup Cluster 1
+Warded Magnetometric Backup Cluster 1
+Secure Radar Backup Cluster 1
+Shielded Radar Backup Cluster 1
+Warded Radar Backup Cluster 1
+Siege Module 1
+Mjolnir Heavy Assault Missile
+Scourge Heavy Assault Missile
+Inferno Heavy Assault Missile
+Guided Missile Precision
+Target Navigation Prediction
+Warhead Upgrades
+Capital Energy Turret
+Advanced Spaceship Command
+50mm Reinforced Steel Plates 2
+100mm Reinforced Steel Plates 2
+200mm Reinforced Steel Plates 2
+400mm Reinforced Steel Plates 2
+800mm Reinforced Steel Plates 2
+1600mm Reinforced Steel Plates 2
+Information Warfare Link Recon Operation 1
+Information Warfare Link Electronic Superiority 1
+Skirmish Warfare Link Rapid Deployment 1
+Armored Warfare Link Passive Defense 1
+Datacore Gallentean Starship Engineering
+Datacore High Energy Physics
+Datacore Plasma Physics
+Datacore Laser Physics
+Datacore Quantum Physics
+Datacore Molecular Engineering
+Datacore Nanite Engineering
+Datacore Electromagnetic Physics
+Datacore Electronic Engineering
+Datacore Graviton Physics
+Datacore Rocket Science
+Datacore Amarrian Starship Engineering
+Datacore Nuclear Physics
+Datacore Mechanical Engineering
+Datacore Offensive Subsystems Engineering
+Talocan Technology
+Armored Warfare
+Information Warfare
+High grade Halo Alpha
+High grade Slave Alpha
+High grade Halo Beta
+High grade Slave Beta
+High grade Halo Delta
+High grade Slave Delta
+High grade Halo Epsilon
+High grade Slave Epsilon
+High grade Halo Gamma
+High grade Slave Gamma
+Siege Warfare Link Shield Harmonizing 1
+Amarr Freighter
+Amarr Dreadnought
+Caldari Freighter
+Gallente Freighter
+Minmatar Freighter
+Caldari Dreadnought
+Gallente Dreadnought
+Minmatar Dreadnought
+Capital Ships
+Citadel Torpedo Launcher 1
+Small Siesta Capacitor Booster
+Medium Gattotte Capacitor Booster
+Heavy Brave Capacitor Booster
+Prototype Poncho Cloaking Device 1
+Smokescreen Covert Ops Cloaking Device 2
+Improved Guise Cloaking Device 2
+Dyad Co Processor 1
+Deuce Co Processor 1
+Marshall Ion Field Projector
+Gambler Phase Inverter
+Plunderer Spatial Destabilizer
+Heist White Noise Generator
+Ghost ECM Burst
+Balefire Rocket Launcher
+Gallows Light Missile Launcher
+Pickaxe Rapid Light Missile Launcher
+Undertaker Heavy Missile Launcher
+Noose Cruise Missile Launcher
+Barrage Torpedo Launcher
+Whiskey Explosive Deflection Amplifier
+High Noon Thermic Dissipation Amplifier
+Cactus Modified Kinetic Deflection Amplifier
+Prospector EM Ward Amplifier
+Glycerine Shield Boost Amplifier
+Small Settler Shield Booster
+Medium Lone Ranger Shield Booster
+Large Outlaw Shield Booster
+Extra Large Locomotive Shield Booster
+Small Wolf Shield Extender
+Micro Trapper Shield Extender
+Medium Canyon Shield Extender
+Large Sheriff Shield Extender
+Nugget Kinetic Deflection Field
+Desert Heat Thermic Dissipation Field
+Posse Adaptive Invulnerability Field
+Poacher EM Ward Field
+Snake Eyes Explosive Deflection Field
+Capital Armor Repairer 1
+Capital Shield Booster 1
+Arch Angel Carbonized Lead Large
+Arch Angel Nuclear Large
+Arch Angel Proton Large
+Arch Angel Depleted Uranium Large
+Arch Angel Titanium Sabot Large
+Arch Angel Fusion Large
+Arch Angel Phased Plasma Large
+Arch Angel EMP Large
+Arch Angel Carbonized Lead Extra Large
+Arch Angel Depleted Uranium Extra Large
+Arch Angel EMP Extra Large
+Arch Angel Fusion Extra Large
+Arch Angel Nuclear Extra Large
+Arch Angel Phased Plasma Extra Large
+Arch Angel Proton Extra Large
+Arch Angel Titanium Sabot Extra Large
+Domination Carbonized Lead Small
+Domination Nuclear Small
+Domination Proton Small
+Domination Depleted Uranium Small
+Domination Titanium Sabot Small
+Domination Fusion Small
+Domination Phased Plasma Small
+Domination EMP Small
+Domination Carbonized Lead Medium
+Domination Nuclear Medium
+Domination Proton Medium
+Domination Depleted Uranium Medium
+Domination Titanium Sabot Medium
+Domination Fusion Medium
+Domination Phased Plasma Medium
+Domination EMP Medium
+Domination Carbonized Lead Large
+Domination Nuclear Large
+Domination Proton Large
+Domination Depleted Uranium Large
+Domination Titanium Sabot Large
+Domination Fusion Large
+Domination Phased Plasma Large
+Domination EMP Large
+Domination Carbonized Lead Extra Large
+Domination Depleted Uranium Extra Large
+Domination EMP Extra Large
+Domination Fusion Extra Large
+Domination Nuclear Extra Large
+Domination Phased Plasma Extra Large
+Domination Proton Extra Large
+Domination Titanium Sabot Extra Large
+Sanshas Ultraviolet Small
+Sanshas Xray Small
+Sanshas Gamma Small
+Sanshas Multifrequency Small
+Sanshas Ultraviolet Medium
+Sanshas Xray Medium
+Sanshas Gamma Medium
+Sanshas Multifrequency Medium
+Sanshas Ultraviolet Large
+Sanshas Xray Large
+Sanshas Gamma Large
+Sanshas Multifrequency Large
+Sanshas Ultraviolet Extra Large
+Sanshas Xray Extra Large
+Sanshas Gamma Extra Large
+Sanshas Multifrequency Extra Large
+True Sanshas Radio Small
+True Sanshas Microwave Small
+True Sanshas Infrared Small
+True Sanshas Standard Small
+True Sanshas Ultraviolet Small
+True Sanshas Xray Small
+True Sanshas Gamma Small
+True Sanshas Multifrequency Small
+True Sanshas Radio Medium
+True Sanshas Microwave Medium
+True Sanshas Infrared Medium
+True Sanshas Standard Medium
+True Sanshas Ultraviolet Medium
+True Sanshas Xray Medium
+True Sanshas Gamma Medium
+True Sanshas Multifrequency Medium
+True Sanshas Radio Large
+True Sanshas Microwave Large
+True Sanshas Infrared Large
+True Sanshas Standard Large
+True Sanshas Ultraviolet Large
+True Sanshas Xray Large
+True Sanshas Gamma Large
+True Sanshas Multifrequency Large
+True Sanshas Radio Extra Large
+True Sanshas Microwave Extra Large
+True Sanshas Infrared Extra Large
+True Sanshas Standard Extra Large
+True Sanshas Ultraviolet Extra Large
+True Sanshas Xray Extra Large
+True Sanshas Gamma Extra Large
+True Sanshas Multifrequency Extra Large
+Shadow Iron Charge Large
+Shadow Tungsten Charge Large
+Shadow Iridium Charge Large
+Shadow Lead Charge Large
+Shadow Thorium Charge Large
+Shadow Uranium Charge Large
+Shadow Plutonium Charge Large
+Shadow Antimatter Charge Large
+Shadow Antimatter Charge Extra Large
+Shadow Iridium Charge Extra Large
+Shadow Iron Charge Extra Large
+Shadow Lead Charge Extra Large
+Shadow Plutonium Charge Extra Large
+Shadow Thorium Charge Extra Large
+Shadow Tungsten Charge Extra Large
+Shadow Uranium Charge Extra Large
+Guardian Iron Charge Small
+Guardian Tungsten Charge Small
+Guardian Iridium Charge Small
+Guardian Lead Charge Small
+Guardian Thorium Charge Small
+Guardian Uranium Charge Small
+Guardian Plutonium Charge Small
+Guardian Antimatter Charge Small
+Guardian Iron Charge Medium
+Guardian Tungsten Charge Medium
+Guardian Iridium Charge Medium
+Guardian Lead Charge Medium
+Guardian Thorium Charge Medium
+Guardian Uranium Charge Medium
+Guardian Plutonium Charge Medium
+Guardian Antimatter Charge Medium
+Guardian Iron Charge Large
+Guardian Tungsten Charge Large
+Guardian Iridium Charge Large
+Guardian Lead Charge Large
+Guardian Thorium Charge Large
+Guardian Uranium Charge Large
+Guardian Plutonium Charge Large
+Guardian Antimatter Charge Large
+Guardian Antimatter Charge Extra Large
+Guardian Iridium Charge Extra Large
+Guardian Iron Charge Extra Large
+Guardian Lead Charge Extra Large
+Guardian Plutonium Charge Extra Large
+Guardian Thorium Charge Extra Large
+Guardian Tungsten Charge Extra Large
+Guardian Uranium Charge Extra Large
+Capital Propulsion Engine
+Capital Turret Hardpoint
+Capital Sensor Cluster
+Capital Armor Plates
+Capital Capacitor Battery
+Capital Power Generator
+Capital Shield Emitter
+Capital Jump Drive
+Capital Cargo Bay
+Capital Drone Bay
+Capital Computer System
+Capital Construction Parts
+Capital Siege Array
+Capital Launcher Hardpoint
+Shield Compensation
+Rapid Launch
+Sleeper Split Cables
+Talocan Sketch Books
+Talocan Molecule Binder
+Talocan Stasis Inverter
+Talocan Info Shards
+Talocan Reflective Sheets
+Talocan Perpetual Clock
+Talocan Solid Atomizer
+Talocan Mechanical Gears
+Talocan System Interface Unit
+Talocan Mathematical Schematics
+Talocan Automation Accounts
+Talocan Partition Plates
+Talocan Intricate Formulas
+Talocan Stasis Deflector
+Talocan Ignition Device
+Cynosural Field Generator 1
+Goru's Shuttle
+Blood Radio Small
+Blood Microwave Small
+Blood Infrared Small
+Blood Standard Small
+Blood Ultraviolet Small
+Blood Xray Small
+Blood Gamma Small
+Blood Multifrequency Small
+Blood Microwave Medium
+Blood Infrared Medium
+Blood Standard Medium
+Blood Ultraviolet Medium
+Blood Xray Medium
+Blood Gamma Medium
+Blood Multifrequency Medium
+Blood Radio Large
+Blood Microwave Large
+Blood Infrared Large
+Blood Standard Large
+Blood Ultraviolet Large
+Blood Xray Large
+Blood Gamma Large
+Blood Multifrequency Large
+Blood Radio Extra Large
+Blood Microwave Extra Large
+Blood Infrared Extra Large
+Blood Standard Extra Large
+Blood Ultraviolet Extra Large
+Blood Xray Extra Large
+Blood Gamma Extra Large
+Blood Multifrequency Extra Large
+Dark Blood Radio Small
+Dark Blood Microwave Small
+Dark Blood Infrared Small
+Dark Blood Standard Small
+Dark Blood Ultraviolet Small
+Dark Blood Xray Small
+Dark Blood Gamma Small
+Dark Blood Multifrequency Small
+Dark Blood Radio Medium
+Dark Blood Microwave Medium
+Dark Blood Infrared Medium
+Dark Blood Standard Medium
+Dark Blood Ultraviolet Medium
+Dark Blood Xray Medium
+Dark Blood Gamma Medium
+Dark Blood Multifrequency Medium
+Dark Blood Radio Large
+Dark Blood Microwave Large
+Dark Blood Infrared Large
+Dark Blood Standard Large
+Dark Blood Ultraviolet Large
+Dark Blood Xray Large
+Dark Blood Gamma Large
+Dark Blood Multifrequency Large
+Dark Blood Radio Extra Large
+Dark Blood Microwave Extra Large
+Dark Blood Infrared Extra Large
+Dark Blood Standard Extra Large
+Dark Blood Ultraviolet Extra Large
+Dark Blood Xray Extra Large
+Dark Blood Gamma Extra Large
+Dark Blood Multifrequency Extra Large
+Guristas Iron Charge Small
+Guristas Tungsten Charge Small
+Guristas Iridium Charge Small
+Guristas Lead Charge Small
+Guristas Thorium Charge Small
+Guristas Uranium Charge Small
+Guristas Plutonium Charge Small
+Guristas Antimatter Charge Small
+Guristas Iron Charge Medium
+Guristas Tungsten Charge Medium
+Guristas Iridium Charge Medium
+Guristas Lead Charge Medium
+Guristas Thorium Charge Medium
+Guristas Uranium Charge Medium
+Guristas Plutonium Charge Medium
+Guristas Antimatter Charge Medium
+Guristas Iron Charge Large
+Guristas Tungsten Charge Large
+Guristas Iridium Charge Large
+Guristas Lead Charge Large
+Guristas Thorium Charge Large
+Guristas Uranium Charge Large
+Guristas Plutonium Charge Large
+Guristas Antimatter Charge Large
+Guristas Antimatter Charge Extra Large
+Guristas Iridium Charge Extra Large
+Guristas Iron Charge Extra Large
+Guristas Lead Charge Extra Large
+Guristas Plutonium Charge Extra Large
+Guristas Thorium Charge Extra Large
+Guristas Tungsten Charge Extra Large
+Guristas Uranium Charge Extra Large
+Dread Guristas Iron Charge Small
+Dread Guristas Tungsten Charge Small
+Dread Guristas Iridium Charge Small
+Dread Guristas Lead Charge Small
+Dread Guristas Thorium Charge Small
+Dread Guristas Uranium Charge Small
+Dread Guristas Plutonium Charge Small
+Dread Guristas Antimatter Charge Small
+Dread Guristas Iron Charge Medium
+Dread Guristas Tungsten Charge Medium
+Dread Guristas Iridium Charge Medium
+Dread Guristas Lead Charge Medium
+Dread Guristas Thorium Charge Medium
+Dread Guristas Uranium Charge Medium
+Dread Guristas Plutonium Charge Medium
+Dread Guristas Antimatter Charge Medium
+Dread Guristas Iron Charge Large
+Dread Guristas Tungsten Charge Large
+Dread Guristas Iridium Charge Large
+Dread Guristas Lead Charge Large
+Dread Guristas Thorium Charge Large
+Dread Guristas Uranium Charge Large
+Dread Guristas Plutonium Charge Large
+Dread Guristas Antimatter Charge Large
+Dread Guristas Antimatter Charge Extra Large
+Dread Guristas Iridium Charge Extra Large
+Dread Guristas Iron Charge Extra Large
+Dread Guristas Lead Charge Extra Large
+Dread Guristas Plutonium Charge Extra Large
+Dread Guristas Thorium Charge Extra Large
+Dread Guristas Tungsten Charge Extra Large
+Dread Guristas Uranium Charge Extra Large
+Blood Radio Medium
+1 Mega Newton Analog Booster Rockets
+10 Mega Newton Analog Booster Rockets
+100 Mega Newton Analog Booster Rockets
+1 Mega Newton Digital Booster Rockets
+10 Mega Newton Digital Booster Rockets
+100 Mega Newton Digital Booster Rockets
+Ballistic Purge Targeting System 1
+Full Duplex Ballistic Targeting System
+Kindred Stabilization Actuator 1
+Monophonic Stabilization Actuator 1
+Synthetic Hull Conversion Overdrive Injector
+Limited Expanded Archiver Cargo
+Synthetic Hull Conversion Reinforced Bulkheads
+Synthetic Hull Conversion Inertia Stabilizers
+Synthetic Hull Conversion Nanofiber Structure
+Small Integrative Hull Repair Unit
+Medium Integrative Hull Repair Unit
+Large Integrative Hull Repair Unit
+Process Interruptive Warp Disruptor
+Delineative Warp Scrambler
+Gravimetric Firewall
+Ladar Firewall
+Magnetometric Firewall
+Multi Sensor Firewall
+RADAR Firewall
+Micro Degenerative Concussion Bomb 1
+Small Degenerative Concussion Bomb 1
+Medium Degenerative Concussion Bomb 1
+Large Degenerative Concussion Bomb 1
+Inception Target Painter 1
+N 1 Neon Type Rocket Bay
+Sleeper Data Interface Protocol
+Sleeper Profound Research Notes
+Sleeper Manuscripts
+Sleeper Technical Schematics
+Sleeper Data Crystals
+Sleeper Micro Circuits
+Sleeper Cryo Batteries
+Sleeper Virtual Energizer
+Electronic Link
+Spare Parts
+Power Couplings
+Armor Blocks
+Computer Chips
+Electric Conduit
+Mechanic Parts
+Energy Cells
+Construction Alloy
+Data Processor
+Cynosural Field Theory
+Jump Fuel Conservation
+Jump Drive Calibration
+Guristas Shuttle
+Vespa 2
+Valkyrie 2
+Capital Hybrid Turret
+Capital Projectile Turret
+Citadel Torpedoes
+Hacking
+Sleeper Hyperbooster
+Sleeper Thermal Regulator
+Sleeper Heat Nullifying Coil
+Sleeper Nanite Cluster
+Sleeper Reintegration Control
+Guristas Heavy Weapon Console
+Guristas Medium Weapon Console
+Guristas Light Weapon Console
+Guristas Gravity Focuser
+Guristas Graviton Hardening
+Angel Advanced Trigger Mechanism
+Angel Standard Trigger Mechanism
+Angel Simple Trigger Mechanism
+Angel Spatial Analyzer
+Angel Dynamic Calibrator
+Caldari Navy Antimatter Charge Large
+Sleeper Technology
+Caldari Encryption Methods
+Minmatar Encryption Methods
+Capital Shield Operation
+Capital Repair Systems
+Tairei's Modified Cap Recharger
+Raysere's Modified Cap Recharger
+Ahremen's Modified Cap Recharger
+Draclira's Modified Cap Recharger
+Gallente Mining Laser
+Civilian Armor Repairer
+Civilian Expanded Cargohold
+Civilian Afterburner
+Nova Heavy Assault Missile
+Republic Fleet EMP Large
+Republic Fleet EMP Medium
+Republic Fleet EMP Small
+Republic Fleet EMP Extra Large
+Republic Fleet Fusion Large
+Republic Fleet Fusion Medium
+Republic Fleet Fusion Small
+Republic Fleet Fusion Extra Large
+Republic Fleet Nuclear Large
+Republic Fleet Nuclear Medium
+Republic Fleet Nuclear Small
+Republic Fleet Nuclear Extra Large
+Republic Fleet Phased Plasma Large
+Republic Fleet Phased Plasma Extra Large
+Republic Fleet Phased Plasma Medium
+Republic Fleet Phased Plasma Small
+Republic Fleet Proton Large
+Republic Fleet Proton Medium
+Republic Fleet Proton Small
+Republic Fleet Proton Extra Large
+Republic Fleet Titanium Sabot Large
+Republic Fleet Titanium Sabot Medium
+Republic Fleet Titanium Sabot Small
+Republic Fleet Titanium Sabot Extra Large
+Station Construction Parts
+Station Hangar Array
+Station Storage Bay
+Station Laboratory
+Station Factory
+Station Repair Facility
+Station Reprocessing Plant
+Station Docking Bay
+Station Market Network
+Station Medical Center
+Station Office Center
+Station Mission Network
+Tactical Weapon Reconfiguration
+Mid grade Crystal Alpha
+Mid grade Crystal Beta
+Mid grade Crystal Delta
+Mid grade Crystal Epsilon
+Mid grade Crystal Gamma
+Mid grade Halo Alpha
+Mid grade Halo Beta
+Mid grade Halo Delta
+Mid grade Halo Epsilon
+Mid grade Halo Gamma
+Mid grade Slave Alpha
+Mid grade Slave Beta
+Mid grade Slave Delta
+Mid grade Slave Epsilon
+Mid grade Slave Gamma
+Mid grade Snake Alpha
+Mid grade Snake Beta
+Mid grade Snake Delta
+Mid grade Snake Epsilon
+Mid grade Snake Gamma
+Mid grade Talisman Alpha
+Mid grade Talisman Beta
+Mid grade Talisman Delta
+Mid grade Talisman Epsilon
+Mid grade Talisman Gamma
+Data Analyzer 1
+Relic Analyzer 1
+Armored Warfare Link Rapid Repair 1
+Siege Warfare Link Shield Efficiency 1
+Ice Harvester 2
+Capital Ship Construction
+Ballistic Control System 2
+Mining Foreman
+Mining Laser Upgrade 1
+Hulk
+Skiff
+Mackinaw
+Exhumers
+Mining Director
+Mining Foreman Link Harvester Capacitor Efficiency 1
+Mining Foreman Link Mining Laser Field Enhancement 1
+Mining Foreman Link Laser Optimization 1
+True Sansha Rocket Launcher
+True Sansha Light Missile Launcher
+True Sansha Rapid Light Missile Launcher
+True Sansha Heavy Missile Launcher
+True Sansha Cruise Missile Launcher
+True Sansha Torpedo Launcher
+Praetor EV 900
+Ice Harvester Upgrade 1
+Mining Upgrades
+Elara Restrained Mining Laser Upgrade
+Carpo Mining Laser Upgrade
+Aoede Mining Laser Upgrade
+Frigoris Restrained Ice Harvester Upgrade
+Anguis Ice Harvester Upgrade
+Ingenii Ice Harvester Upgrade
+Medium Biochemical Reactor Array
+Republic Special Ops Field Enhancer Gamma
+Imperial Special Ops Field Enhancer Standard
+Recon Ships
+Heavy Shield Maintenance Bot 1
+Warp Disrupt Probe
+Interdiction Sphere Launcher 1
+EM Armor Compensation
+Explosive Armor Compensation
+Kinetic Armor Compensation
+Thermic Armor Compensation
+Hel
+Aura Warp Core Stabilizer 1
+Natura Warp Core Stabilizer 1
+Pilfer Energized Adaptive Nano Membrane 1
+Moonshine Energized Thermic Membrane 1
+Mafia Energized Kinetic Membrane 1
+Harmony Small Armor Repairer 1
+Meditation Medium Armor Repairer 1
+Protest Large Armor Repairer 1
+Gonzo Damage Control 1
+Shady ECCM Gravimetric 1
+Forger ECCM Magnetometric 1
+Capitalist Magnetic Field Stabilizer 1
+Monopoly Magnetic Field Stabilizer 1
+Bootleg ECCM Projector 1
+Economist Tracking Computer 1
+Marketeer Tracking Computer 1
+Distributor Tracking Disruptor 1
+Investor Tracking Disruptor 1
+Tycoon Remote Tracking Computer
+Enterprise Remote Tracking Computer
+Boss Remote Sensor Booster
+Entrepreneur Remote Sensor Booster
+Broker Remote Sensor Dampener 1
+Executive Remote Sensor Dampener 1
+Beatnik Small Remote Armor Repairer
+Love Medium Remote Armor Repairer
+Pacifier Large Remote Armor Repairer
+Cartel Power Diagnostic System 1
+Federation Navy Antimatter Charge Small
+Federation Navy Plutonium Charge Small
+Federation Navy Uranium Charge Small
+Federation Navy Thorium Charge Small
+Federation Navy Lead Charge Small
+Federation Navy Iridium Charge Small
+Federation Navy Tungsten Charge Small
+Federation Navy Iron Charge Small
+Federation Navy Antimatter Charge Medium
+Federation Navy Plutonium Charge Medium
+Federation Navy Uranium Charge Medium
+Federation Navy Thorium Charge Medium
+Federation Navy Lead Charge Medium
+Federation Navy Iridium Charge Medium
+Federation Navy Tungsten Charge Medium
+Federation Navy Iron Charge Medium
+Federation Navy Antimatter Charge Large
+Federation Navy Plutonium Charge Large
+Federation Navy Uranium Charge Large
+Federation Navy Thorium Charge Large
+Federation Navy Lead Charge Large
+Federation Navy Iridium Charge Large
+Federation Navy Tungsten Charge Large
+Federation Navy Iron Charge Large
+Caldari Navy Antimatter Charge Small
+Caldari Navy Plutonium Charge Small
+Caldari Navy Uranium Charge Small
+Caldari Navy Thorium Charge Small
+Caldari Navy Lead Charge Small
+Caldari Navy Iridium Charge Small
+Caldari Navy Tungsten Charge Small
+Caldari Navy Iron Charge Small
+Caldari Navy Antimatter Charge Medium
+Caldari Navy Plutonium Charge Medium
+Caldari Navy Uranium Charge Medium
+Caldari Navy Thorium Charge Medium
+Caldari Navy Lead Charge Medium
+Caldari Navy Iridium Charge Medium
+Caldari Navy Tungsten Charge Medium
+Caldari Navy Iron Charge Medium
+Caldari Navy Plutonium Charge Large
+Caldari Navy Uranium Charge Large
+Caldari Navy Thorium Charge Large
+Caldari Navy Lead Charge Large
+Caldari Navy Iridium Charge Large
+Caldari Navy Tungsten Charge Large
+Caldari Navy Iron Charge Large
+Templar
+Dragonfly
+Firbolg
+Einherji
+Fighters
+Imperial Navy Multifrequency Small
+Imperial Navy Gamma Small
+Imperial Navy Xray Small
+Imperial Navy Ultraviolet Small
+Imperial Navy Standard Small
+Imperial Navy Infrared Small
+Imperial Navy Microwave Small
+Imperial Navy Radio Small
+Amarr Encryption Methods
+Imperial Navy Multifrequency Medium
+Imperial Navy Gamma Medium
+Imperial Navy Xray Medium
+Imperial Navy Ultraviolet Medium
+Imperial Navy Standard Medium
+Imperial Navy Infrared Medium
+Imperial Navy Microwave Medium
+Imperial Navy Radio Medium
+Imperial Navy Multifrequency Large
+Imperial Navy Gamma Large
+Imperial Navy Xray Large
+Imperial Navy Ultraviolet Large
+Imperial Navy Standard Large
+Imperial Navy Infrared Large
+Imperial Navy Microwave Large
+Imperial Navy Radio Large
+Gallente Encryption Methods
+Takmahl Technology
+Yan Jung Technology
+Yan Jung Crystal Cylinder
+Yan Jung Paradox Box
+Yan Jung Thunder Kite
+Yan Jung Void Machine
+Yan Jung Tachyon Stetoscope
+Takmahl Phrenic Appendix
+Takmahl Dynamic Gauge
+Takmahl Gyro Ballast
+Takmahl Biodroid Controller
+Takmahl Quantum Sphere
+Yan Jung Null Shell
+Yan Jung Glass Scale
+Yan Jung Plenary Wire
+Yan Jung Silk Armor
+Yan Jung Nano Fabric
+Takmahl Diamond Rod
+Takmahl Cohere Cord
+Takmahl Solid Mox
+Takmahl Magnetic Slab
+Takmahl Tri polished Lens
+Blood Raider Limited Ballistic Control
+Blood Raider Regular Ballistic Control
+Blood Raider Extreme Ballistic Control
+Blood Raider Weapon Integration Unit
+Blood Raider Power Redistributor
+Serpentis Plain Target Guider
+Serpentis Basic Target Guider
+Serpentis Complex Target Guider
+Serpentis 3D Scanner Gamut
+Serpentis Multi tasking Processor
+Positron Cord
+Auxiliary Parts
+Force Cable
+Elemental Crux
+Analog Panel
+Current Amplifier
+Second hand Parts
+Heat Depressor
+Internal Bulkhead
+Mainframe Bit
+Yan Jung Info Matrix
+Yan Jung Vellum Etch
+Yan Jung Trigonometric Laws
+Yan Jung Semiotic Theory
+Yan Jung Singularity Fact Sheet
+Takmahl Binary Texts
+Takmahl Fractal Sheet
+Takmahl Centrifugal Primer
+Takmahl Geometric Design
+Takmahl Astral Treatment
+Brotherhood Small Remote Armor Repairer
+Peace Large Remote Armor Repairer
+Radical Damage Control 1
+Wasp EC 900
+Ogre SD 900
+Praetor TD 900
+Berserker TP 900
+Heavy Armor Maintenance Bot 1
+Curator 1

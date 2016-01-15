@@ -1,0 +1,22 @@
+{
+  "intents": [
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "ServerStatusIntent"
+    },
+    {
+      "intent": "ServerTimeIntent"
+    },
+    {
+      "intent": "MarketPriceIntent",
+      "slots": [
+        {
+          "name": "Item",
+          "type": "EVE_MARKET_ITEM"
+        }
+      ]
+    }
+  ]
+}

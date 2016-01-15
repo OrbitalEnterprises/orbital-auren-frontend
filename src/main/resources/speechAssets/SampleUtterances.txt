@@ -1,0 +1,42 @@
+ServerStatusIntent server status
+ServerStatusIntent eve online status
+ServerStatusIntent eve server status
+ServerStatusIntent what is eve's status
+ServerStatusIntent what is the current server status
+ServerStatusIntent current status
+ServerStatusIntent current server status
+ServerStatusIntent tell me current status
+ServerStatusIntent tell me current server status
+ServerStatusIntent tell me eve's status
+ServerTimeIntent time
+ServerTimeIntent current time
+ServerTimeIntent eve time
+ServerTimeIntent eve online time
+ServerTimeIntent what is time
+ServerTimeIntent what is current time
+ServerTimeIntent what is eve time
+ServerTimeIntent what is eve online time
+ServerTimeIntent what is the time
+ServerTimeIntent what is the current time
+ServerTimeIntent what is the time in eve
+ServerTimeIntent what is the time in eve online
+ServerTimeIntent what is the current time in eve
+ServerTimeIntent what is the current time in eve online
+MarketPriceIntent what is the price of {Item}
+MarketPriceIntent price for {Item}
+MarketPriceIntent price {Item}
+MarketPriceIntent how much does {Item} cost
+MarketPriceIntent what is the current price for {Item}
+MarketPriceIntent current price for {Item}
+MarketPriceIntent the price for {Item}
+MarketPriceIntent the price of {Item}
+MarketPriceIntent price of {Item}
+MarketPriceIntent current price {Item}
+MarketPriceIntent what is the price of a {Item}
+MarketPriceIntent price for a {Item}
+MarketPriceIntent how much does a {Item} cost
+MarketPriceIntent what is the current price for a {Item}
+MarketPriceIntent current price for a {Item}
+MarketPriceIntent the price for a {Item}
+MarketPriceIntent the price of a {Item}
+MarketPriceIntent price of a {Item}
